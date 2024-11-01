@@ -61,12 +61,14 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 > ![image](https://github.com/user-attachments/assets/4cd7760b-6d26-4e74-8a13-9c5a75b2b51a) ![image](https://github.com/user-attachments/assets/fd6db62a-8c3d-47c8-b4dc-1dea0db8443e)
 
  - b) **Base do relatório UF** 
-   - > Relatórios > conferência > operações e prestações por UF-ICMS/IPI > mês anterior > desflegar empresa > salvar na pasta de fechamento.
+   - *Relatórios*
+      - *Conferência > operações e prestações por UF-ICMS/IPI > mês anterior > desflegar empresa > salvar na pasta de fechamento.*
 
 > ![image](https://github.com/user-attachments/assets/b2386f72-17f1-42fa-9e6f-fde3446ce54b) ![image](https://github.com/user-attachments/assets/d1ca2415-cd6e-466d-9084-c377e04d6483)
 
  - c)	**Base de saídas** 
-   - > Relatórios > livros fiscais > saída > mês anterior (não alterar mais nenhum filtro) > imprimir em arquivo >salvar na  pasta de fechamento.
+   - *Relatórios*
+      - *Livros fiscais > saída > mês anterior (não alterar mais nenhum filtro) > imprimir em arquivo >salvar na  pasta de fechamento.*
 
 > ![image](https://github.com/user-attachments/assets/0a1c21d1-515e-4136-9c61-2a22098c419d) ![image](https://github.com/user-attachments/assets/d83412d7-5587-4936-9a1d-9e6c10e39850)
 
@@ -76,9 +78,11 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 #### 1.4 - 5° Importar no sistema Etccom:
 
-- **Sistema > Contabilidade > Fiscal**
+- **Sistema**
+   - *Contabilidade*
+      - *Fiscal*
   
-  - a)	**Entrada Resumo** 
+  - a) **Entrada Resumo** 
     - *Relatórios*
        - *Livros fiscais > entrada > mês anterior > imprimir somente resumo > impressora > salvar em pdf.*
 
@@ -96,7 +100,7 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 > ![image](https://github.com/user-attachments/assets/9cd995e6-ebdd-4ba7-841e-26117b36a43d) ![image](https://github.com/user-attachments/assets/eeba10a6-e77c-45a4-a9e0-2eef1191f8e8)
 
-  - d) **Impressão dos livros de entrada 
+  - d) **Impressão dos livros de entrada** 
     - *Relatórios*
        - *Livros fiscais > entrada > mês anterior > imprime emitente junto à nota > filtrar CFOP (período) > selecionar CFOP > impressora > salvar em pdf > imprimir.*
 
