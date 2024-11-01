@@ -110,24 +110,47 @@ GARES e GNRE pagas > imprimir relatório da Conta Fiscal para conferir e confirm
 
 **Movimento de títulos de obrigações** 
 
-- Sistema
-   - Financeiro
-      - Operador
-         - Relatório
-            -  Movimento de títulos > aplicar filtros > empresa > data > selecionar obrigação > espécie GAREST e GNRE > operações (lupa) - incluir títulos 16 > imprimir > salvar em pdf > imprimir.
+- *Sistema*
+   - *Financeiro*
+      - *Operador*
+         - *Relatório*
+            -  *Movimento de títulos > aplicar filtros > empresa > data > selecionar obrigação > espécie GAREST e GNRE > operações (lupa) - incluir títulos 16 > imprimir > salvar em pdf > imprimir.*
 
 ![image](https://github.com/user-attachments/assets/b5819502-d6f5-49e9-838a-02f266c9c5a0)
 
-- **Relatório UF:**
-   - *Relatórios*
-      - *Conferência*
-         - *Operações e prestações por UF-ICMS/IPI > mês anterior > desflegar empresa > demonstra ICMS ST Distrib. > Impressora*
+**Relatório UF:**
+   
+- *Relatórios*
+   - *Conferência*
+      - *Operações e prestações por UF-ICMS/IPI > mês anterior > desflegar empresa > demonstra ICMS ST Distrib. > Impressora*
 
 > ![image](https://github.com/user-attachments/assets/4a7919bc-58e0-49f0-be0f-89b2fa07ba2c)
 
+```Sistema Consinco > Comercial > Gerencial```
 
+> ![image](https://github.com/user-attachments/assets/628d2948-2207-483d-9100-eafc0895f35b)
 
+   - a) *Produtor Rural > Gerencial > Análise ABC de entradas > mês passado > detalhe 1:*
+      - *Cidade > detalhe 2:*
+         - *UF > filtro por CGO de produtor > abrir opções de CGO > somente os CGOs escolhidos > escolher CGOs > manter Crtl para selecionar CGOs > clicar em retornar   > confirmar > impressora > salvar relatório em pdf.*
 
+>![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c) ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
+
+  - b) *Vendas Gerencial*
+     - *Gerencial > Análise ABC venda distribuição > mês passado > detalhe 1:*
+        - *CGO > detalhe 2:*
+           - *Total > confirmar > impressora > salvar relatório em pdf.*
+
+> ![image](https://github.com/user-attachments/assets/ac4bbf8c-063b-40d1-a80d-80b3196542f3) ![image](https://github.com/user-attachments/assets/d9bf24b1-1b4f-4698-b1ae-cc46f4b7a926)
+
+### 1.5 - 6° Relatório de perdas
+
+- *Relatórios*
+   - *Estorno crédito ICMS*
+      - *Cálculo de estorno ICMS > mês anterior > se houver carne “exceto as escolhidas” (selecionar as tributações correspondentes a carne) > impressora > salvar em pdf na pasta de fechamento.*
+
+> ![image](https://github.com/user-attachments/assets/6613a964-051a-4de6-9773-e745355b41d0)![image](https://github.com/user-attachments/assets/a0bf2e72-876b-4b59-bda2-a19e7a029e58)
+ 
 
 
 
