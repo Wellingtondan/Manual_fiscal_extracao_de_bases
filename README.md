@@ -196,9 +196,25 @@ GARES e GNRE pagas > imprimir relatório da Conta Fiscal para conferir e confirm
          - *Fiscal*
             - *Processos*
                - *Apuração PIS COFINS*
-                  - *Apuração PIS COFINS > seleciona mês > pesquisa F8 > recompor apuração > F4 atualizar > impressora > salvar em pdf apuração.
+                  - *Apuração PIS COFINS > seleciona mês > pesquisa F8 > recompor apuração > F4 atualizar > impressora > salvar em pdf apuração.*
 
 
+> ![image](https://github.com/user-attachments/assets/f30ba80c-a419-41cb-8bb7-cb270105e4cd) ![image](https://github.com/user-attachments/assets/402cd72b-16eb-437e-8cc0-a7e5fa85ae79)
+
+- **Para relatório auxiliar para conferência**
+   - *Processos*
+      - *Apuração PIS COFINS*
+         - *Conferência da apuração de PIS COFINS > mês anterior > seleciono loja > resumo por CFOP e CST > salvar em pdf.*
+
+> ![image](https://github.com/user-attachments/assets/05f29d84-6c39-46cb-b6ca-9e73d712017f) ![image](https://github.com/user-attachments/assets/6d7c48db-b77e-4e03-899d-30f728d6a93f)
+
+- **Para relatório de perdas e devolução PIS COFINS**
+   - *Fiscal*
+      - *Processos*
+         - *Apuração PIS COFINS*
+            -  *Conferência de devolução de compra e estorno > período anterior > seleciona empresa > sintético por nota fiscal > filtrar por CGO de perdas e de devolução > período > impressora > salvar e imprimir.*
+
+> ![image](https://github.com/user-attachments/assets/58c197f5-5397-4602-b219-50f4fb53d296) ![image](https://github.com/user-attachments/assets/c30b9cb6-ba9a-4d9c-a5ee-7f0e477226ac)
 
 
 
