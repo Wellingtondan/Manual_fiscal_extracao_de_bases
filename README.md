@@ -79,22 +79,26 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 - **Sistema > Contabilidade > Fiscal**
   
   - a)	**Entrada Resumo** 
-    - *> Relatórios > livros fiscais > entrada > mês anterior > imprimir somente resumo > impressora > salvar em pdf.*
+    - *Relatórios*
+       - *Livros fiscais > entrada > mês anterior > imprimir somente resumo > impressora > salvar em pdf.*
 
 > ![image](https://github.com/user-attachments/assets/36f076ea-fd50-4a36-9f5f-543851daf792) ![image](https://github.com/user-attachments/assets/b188b179-3a51-44e8-a1d6-f21b9bd2b283)
 
-  - b)	**Saída Resumo**
-    - *> Relatórios > livros fiscais > saída > mês anterior > imprimir somente resumo > impressora > salvar em pdf.*
+  - b) **Saída Resumo**
+    - *Relatórios*
+       - *Livros fiscais > saída > mês anterior > imprimir somente resumo > impressora > salvar em pdf.*
 
 ![image](https://github.com/user-attachments/assets/645951d6-8352-4d90-9499-b236635814bf) ![image](https://github.com/user-attachments/assets/bac8e6eb-2ca8-4861-b04b-310c399b4d4b)
 
-  - c)	**Venda Fiscal**
-    - *> Relatórios > livros fiscais > saída > mês anterior > imprimir somente resumo > filtrar CFOP (por período) > clicar direito mouse (desmarcar todos) > 5.102 | 5.405 | 6.102 | 6.405 > impressora > salvar em pdf.*
+  - c) **Venda Fiscal**
+    - *Relatórios*
+      - *Livros fiscais > saída > mês anterior > imprimir somente resumo > filtrar CFOP (por período) > clicar direito mouse (desmarcar todos) > 5.102 | 5.405 | 6.102 | 6.405 > impressora > salvar em pdf.*
 
 > ![image](https://github.com/user-attachments/assets/9cd995e6-ebdd-4ba7-841e-26117b36a43d) ![image](https://github.com/user-attachments/assets/eeba10a6-e77c-45a4-a9e0-2eef1191f8e8)
 
   - d) **Impressão dos livros de entrada 
-    - *> Relatórios > livros fiscais > entrada > mês anterior > imprime emitente junto à nota > filtrar CFOP (período) > selecionar CFOP > impressora > salvar em pdf > imprimir.*
+    - *Relatórios*
+       - *Livros fiscais > entrada > mês anterior > imprime emitente junto à nota > filtrar CFOP (período) > selecionar CFOP > impressora > salvar em pdf > imprimir.*
 
 > ![image](https://github.com/user-attachments/assets/5bb09faf-ba90-4fe1-b626-af45a3cc650d) ![image](https://github.com/user-attachments/assets/97bfdded-8e23-4b7c-a4f0-dc7b1bd99d72)
 
@@ -102,10 +106,24 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 > ![image](https://github.com/user-attachments/assets/c000a03f-3f41-4224-98a7-55637612aa07)
 
+GARES e GNRE pagas > imprimir relatório da Conta Fiscal para conferir e confirmar pagamentos > conferir dados da observação do livro: valor, vencimento, código e artigo.
 
+**Movimento de títulos de obrigações** 
 
+- Sistema
+   - Financeiro
+      - Operador
+         - Relatório
+            -  Movimento de títulos > aplicar filtros > empresa > data > selecionar obrigação > espécie GAREST e GNRE > operações (lupa) - incluir títulos 16 > imprimir > salvar em pdf > imprimir.
 
+![image](https://github.com/user-attachments/assets/b5819502-d6f5-49e9-838a-02f266c9c5a0)
 
+- **Relatório UF:**
+   - *Relatórios*
+      - *Conferência*
+         - *Operações e prestações por UF-ICMS/IPI > mês anterior > desflegar empresa > demonstra ICMS ST Distrib. > Impressora*
+
+> ![image](https://github.com/user-attachments/assets/4a7919bc-58e0-49f0-be0f-89b2fa07ba2c)
 
 
 
