@@ -154,7 +154,49 @@ GARES e GNRE pagas > imprimir relatório da Conta Fiscal para conferir e confirm
       - *Cálculo de estorno ICMS > mês anterior > se houver carne “exceto as escolhidas” (selecionar as tributações correspondentes a carne) > impressora > salvar em pdf na pasta de fechamento.*
 
 > ![image](https://github.com/user-attachments/assets/6613a964-051a-4de6-9773-e745355b41d0)![image](https://github.com/user-attachments/assets/a0bf2e72-876b-4b59-bda2-a19e7a029e58)
- 
+> ![image](https://github.com/user-attachments/assets/501812fa-0c20-4578-b205-3b31f2919585)
+
+### 1.6 - 7° Simples Nacional
+
+- **Relatório de Crédito do Simples Nacional:**
+   - *Sistema*
+      - *Contabilidade*
+         - *Fiscal*
+            - *Obrigações estaduais > São Paulo > Geração CR 20/CR 25 GIA SP – Simples Nacional > mês ano > confirmar > salvar em pdf > imprimir > baixar em PDF as notas fiscais trazidas.*
+
+> ![image](https://github.com/user-attachments/assets/7f35465e-bda1-4c46-a202-110442bbb15e) ![image](https://github.com/user-attachments/assets/48bf3d05-fc28-4481-a431-193b21ec8d40)
+
+### 1.7 - 8° Apuração de ICMS:
+
+- **Para apuração**
+   - Sistema
+      - Contabilidade
+         - Fiscal
+            - Processos
+               - Apuração ICMS > apuração ICMS > mês anterior > pesquisa F8 > recompor apuração > livro apuração ICMS > impressora > salvar apuração ICMS em PDF > salvar resumo da apuração em PDF.
+
+> ![image](https://github.com/user-attachments/assets/3a18df2f-c4fd-40c6-b11f-6f0451af8bd3) ![image](https://github.com/user-attachments/assets/a08f5cb0-177c-497a-b7a1-137b86c31960)
+> ![image](https://github.com/user-attachments/assets/fe76a358-149f-4353-8a93-02611d9c1a06)
+
+- **Para lançamento de ajustes**
+   - *Sistema*
+      - *Contabilidade*
+         - *Fiscal*
+            - *Processos*
+               - *Apuração ICMS*
+                  - *Apuração ICMS > mês anterior > pesquisa F8 > recompor apuração > Apuração das Ocorrências.*
+
+> ![image](https://github.com/user-attachments/assets/a86f7b94-e2a4-4a50-9439-929e24a79254) ![image](https://github.com/user-attachments/assets/646f4ef1-ae7e-4b4f-a72d-40e702dad3a4)
+
+### 1.8 - 9° PIS E COFINS
+
+- **Para apuração**
+   - *Sistema*
+      - *Contabilidade*
+         - *Fiscal*
+            - *Processos*
+               - *Apuração PIS COFINS*
+                  - *Apuração PIS COFINS > seleciona mês > pesquisa F8 > recompor apuração > F4 atualizar > impressora > salvar em pdf apuração.
 
 
 
