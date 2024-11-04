@@ -8,75 +8,75 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 ```Acessarmos o sistema da Consinco para analisar os painéis, se existem inconsistências:```
 
-- **Sistema**
-   - *Menu*
-      - *Contabilidade*
-         - *Fiscal*
+> **Sistema**
+>   -     Menu
+>     -     Contabilidade
+>         -     Fiscal
   
 > ![image](https://github.com/user-attachments/assets/d3074ed4-3b3c-4d57-a00f-d150f97668f2)
 
-- **NF-e**
-   - *Processos*
-      - *Notas Fiscais*
-         - *Painel de inconsistência*
-            - *Tipo todos*
-              - *Ferramenta de Captura*
-                 - *Salvar no servidor.*
+> **NF-e**
+>   -     Processos
+>      -     Notas Fiscais
+>         -     Painel de inconsistência
+>            -     Tipo todos
+>              -     Ferramenta de Captura
+>                 -     Salvar no servidor.
 
 > ![image](https://github.com/user-attachments/assets/6368dad2-64ff-4d8e-96a0-baba00f6c0ca)
 
-- **CF**
-   - *Processos*
-      - *Cupons Fiscais*
-        - *Inconsistências*
-           - *Mês anterior*
-              - *Impressora*
-                - *Capturar*
-                   - *SaLvar no servidor;*
+> **CF**
+>   -     Processos
+>      -     Cupons Fiscais
+>        -       Inconsistências
+>           -       Mês anterior
+>              -       Impressora
+>                -       Capturar
+>                   -       SaLvar no servidor;
 
 > ![image](https://github.com/user-attachments/assets/3b193f4e-ba77-4495-b73c-1acdb6132b77)
 
-- **SAT**
-   - *Processos
-      - *SAT CF-e*
-         - *SAT CF-e*
-            - *Consulta cupons inconsistência*
-              - *Mês anterior*
-                 - *Pesquisa*
-                    - *Capturar*
-                       - *Salvar no servidor;*
+> **SAT**
+>   -       Processos
+>      -       SAT CF-e
+>         -       SAT CF-e
+>            -       Consulta cupons inconsistência
+>              -       Mês anterior
+>                 -       Pesquisa
+>                    -       Capturar
+>                       -       Salvar no servidor;
 
 > ![image](https://github.com/user-attachments/assets/f0a8481e-0c8d-4d62-b6e8-a010c164f7f7)
 
-- **Quebra Sequencial**
-   - *Relatórios*
-      - *Conferência*
-         - *Sequencial de numeração de documentos fiscais*
-            - *Mês anterior*
-               - *Modelo (gerar CFe SAT e Nfce)*
-                  - *Capturar> Salvar no servidor;*
+> **Quebra Sequencial**
+>   -       Relatórios
+>      -       Conferência
+>         -       Sequencial de numeração de documentos fiscais
+>            -       Mês anterior
+>               -       Modelo (gerar CFe SAT e Nfce)
+>                  -       Capturar> Salvar no servidor;
 
 > ![image](https://github.com/user-attachments/assets/d6285bb1-0a56-403d-97a8-4c4ee24ac7fc)
 
-- **Comercial X Fiscal (Sillus X Fiscal)**
-   - *Relatórios*
-      - *Conferência*
-         - *Documentos Comercial X Fiscal*
-            - *Mês anterior*
-               - *Marcar somente loja que estou fechando*
-                  - *Todos*
-                     - *Impressora*
-                        - *Capturar*
-                           - *Salvar no servidor.*
+> **Comercial X Fiscal (Sillus X Fiscal)**
+>   -       Relatórios
+>      -       Conferência
+>         -       Documentos Comercial X Fiscal
+>            -       Mês anterior
+>               -       Marcar somente loja que estou fechando
+>                  -       Todos
+>                     -       Impressora
+>                        -       Capturar
+>                           -       Salvar no servidor.
 
 > ![image](https://github.com/user-attachments/assets/4ad4d6e2-f8ec-45ec-a674-f4c0e7a99cdd)
 
 ```Ainda na Consinco, alterar o módulo:```
 
-- **Sistema** 
-  - *Menu*
-     - *Comercial*
-        - *Recebimento*
+> **Sistema** 
+>  - Menu
+>     - Comercial
+>        - Recebimento
 
 > ![image](https://github.com/user-attachments/assets/7d994010-6cb6-43d0-97fa-d9fdc785f420) ![image](https://github.com/user-attachments/assets/7eb41cce-4233-4a9e-a923-79ae18a4fd3c) ![image](https://github.com/user-attachments/assets/61eaedd8-cbb0-43a3-8827-031908049558)
 
@@ -111,9 +111,9 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
                - *Impressão*
                   - *Dinâmica (não alterar mais nenhum filtro)*
                      - *Impressora*
-                        - *Descrição*
-                           - *Base*
-                              - *Salvar na pasta de fechamento.*
+                           - *Descrição*
+                              - *Base*
+                                 - *Salvar na pasta de fechamento.*
 
 > ![image](https://github.com/user-attachments/assets/4cd7760b-6d26-4e74-8a13-9c5a75b2b51a) ![image](https://github.com/user-attachments/assets/fd6db62a-8c3d-47c8-b4dc-1dea0db8443e)
 
@@ -129,7 +129,11 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
  - c)	**Base de saídas** 
    - *Relatórios*
-      - *Livros fiscais > saída > mês anterior (não alterar mais nenhum filtro) > imprimir em arquivo >salvar na  pasta de fechamento.*
+      - *Livros fiscais*
+         - *Saída*
+            - *Mês anterior (não alterar mais nenhum filtro)*
+               - *Imprimir em arquivo*
+                  - *Salvar na  pasta de fechamento.*
 
 > ![image](https://github.com/user-attachments/assets/0a1c21d1-515e-4136-9c61-2a22098c419d) ![image](https://github.com/user-attachments/assets/d83412d7-5587-4936-9a1d-9e6c10e39850)
 
@@ -145,25 +149,44 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
   
   - a) **Entrada Resumo** 
     - *Relatórios*
-       - *Livros fiscais > entrada > mês anterior > imprimir somente resumo > impressora > salvar em pdf.*
+       - *Livros fiscais
+          - *Entrada*
+             - *Mês anterior*
+                - *Imprimir somente resumo - Impressora - salvar em pdf.*
 
 > ![image](https://github.com/user-attachments/assets/36f076ea-fd50-4a36-9f5f-543851daf792) ![image](https://github.com/user-attachments/assets/b188b179-3a51-44e8-a1d6-f21b9bd2b283)
 
   - b) **Saída Resumo**
     - *Relatórios*
-       - *Livros fiscais > saída > mês anterior > imprimir somente resumo > impressora > salvar em pdf.*
+       - *Livros fiscais*
+          - *Saída*
+             - Mês anterior*
+                - Imprimir somente resumo - Impressora - salvar em pdf.*
 
 ![image](https://github.com/user-attachments/assets/645951d6-8352-4d90-9499-b236635814bf) ![image](https://github.com/user-attachments/assets/bac8e6eb-2ca8-4861-b04b-310c399b4d4b)
 
   - c) **Venda Fiscal**
     - *Relatórios*
-      - *Livros fiscais > saída > mês anterior > imprimir somente resumo > filtrar CFOP (por período) > clicar direito mouse (desmarcar todos) > 5.102 | 5.405 | 6.102 | 6.405 > impressora > salvar em pdf.*
+      - *Livros fiscais*
+         -  *Saída*
+            - *Mês anterior*
+               - *Imprimir somente resumo*
+                  - *Filtrar CFOP (por período)*
+                     - *Clicar direito mouse (desmarcar todos)*
+                        - *5.102 | 5.405 | 6.102 | 6.405*
+                           - *Impressora - salvar em pdf.*
 
 > ![image](https://github.com/user-attachments/assets/9cd995e6-ebdd-4ba7-841e-26117b36a43d) ![image](https://github.com/user-attachments/assets/eeba10a6-e77c-45a4-a9e0-2eef1191f8e8)
 
   - d) **Impressão dos livros de entrada** 
     - *Relatórios*
-       - *Livros fiscais > entrada > mês anterior > imprime emitente junto à nota > filtrar CFOP (período) > selecionar CFOP > impressora > salvar em pdf > imprimir.*
+       - *Livros fiscais*
+          - *Entrada*
+             - *Mês anterior*
+                - *Imprime emitente junto à nota*
+                   - *Filtrar CFOP (período)*
+                      - *Selecionar CFOP*
+                         - Impressora > salvar em pdf > imprimir.*
 
 > ![image](https://github.com/user-attachments/assets/5bb09faf-ba90-4fe1-b626-af45a3cc650d) ![image](https://github.com/user-attachments/assets/97bfdded-8e23-4b7c-a4f0-dc7b1bd99d72)
 
@@ -171,7 +194,9 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 > ![image](https://github.com/user-attachments/assets/c000a03f-3f41-4224-98a7-55637612aa07)
 
-GARES e GNRE pagas > imprimir relatório da Conta Fiscal para conferir e confirmar pagamentos > conferir dados da observação do livro: valor, vencimento, código e artigo.
+>     GARES e GNRE pagas 
+>     imprimir relatório da Conta Fiscal para conferir e confirmar pagamentos
+>     conferir dados da observação do livro: valor, vencimento, código e artigo.
 
 **Movimento de títulos de obrigações** 
 
@@ -229,12 +254,18 @@ GARES e GNRE pagas > imprimir relatório da Conta Fiscal para conferir e confirm
 
 ### 1.7 - 8° Apuração de ICMS:
 
-- **Para apuração**
-   - Sistema
-      - Contabilidade
-         - Fiscal
-            - Processos
-               - Apuração ICMS > apuração ICMS > mês anterior > pesquisa F8 > recompor apuração > livro apuração ICMS > impressora > salvar apuração ICMS em PDF > salvar resumo da apuração em PDF.
+> [!NOTE]
+> **Para apuração**
+> - **Sistema**
+>     - *Contabilidade*
+>        - *Fiscal*
+>           - *Processos*
+>              - *Apuração ICMS*
+>                 - *Apuração ICMS*
+>                    - *Mês anterior*
+>                       - *Pesquisa F8*
+>                          - *Recompor apuração*
+>                             - *Livro apuração ICMS* - *Impressora > salvar apuração ICMS em PDF > salvar resumo da apuração em PDF.*
 
 > ![image](https://github.com/user-attachments/assets/3a18df2f-c4fd-40c6-b11f-6f0451af8bd3) ![image](https://github.com/user-attachments/assets/a08f5cb0-177c-497a-b7a1-137b86c31960)
 > ![image](https://github.com/user-attachments/assets/fe76a358-149f-4353-8a93-02611d9c1a06)
@@ -245,7 +276,8 @@ GARES e GNRE pagas > imprimir relatório da Conta Fiscal para conferir e confirm
          - *Fiscal*
             - *Processos*
                - *Apuração ICMS*
-                  - *Apuração ICMS > mês anterior > pesquisa F8 > recompor apuração > Apuração das Ocorrências.*
+                  - *Apuração ICMS*
+                     -  mês anterior > pesquisa F8 > recompor apuração > Apuração das Ocorrências.*
 
 > ![image](https://github.com/user-attachments/assets/a86f7b94-e2a4-4a50-9439-929e24a79254) ![image](https://github.com/user-attachments/assets/646f4ef1-ae7e-4b4f-a72d-40e702dad3a4)
 
