@@ -74,46 +74,46 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 ```Ainda na Consinco, alterar o módulo:```
 
 > **Sistema** 
->  - Menu
->     - Comercial
->        - Recebimento
+>  -       Menu
+>     -       Comercial
+>        -       Recebimento
 
 > ![image](https://github.com/user-attachments/assets/7d994010-6cb6-43d0-97fa-d9fdc785f420) ![image](https://github.com/user-attachments/assets/7eb41cce-4233-4a9e-a923-79ae18a4fd3c) ![image](https://github.com/user-attachments/assets/61eaedd8-cbb0-43a3-8827-031908049558)
 
 #### 1.2 - 2º inserir no sistema Etccom:
 
-- **Fiscal** 
-   - *Fechamento*
-      - *Em Fechamento*
-         - *Painel Fiscal*
-            - *Selecionar a Empresa.*
+> **Fiscal** 
+>   -       Fechamento
+>      -       Em Fechamento
+>         -       Painel Fiscal
+>            -       Selecionar a Empresa.
 
 > ![image](https://github.com/user-attachments/assets/a2729832-1cb7-498d-aed9-bed8499b1f46) ![image](https://github.com/user-attachments/assets/a9954ca3-e02c-4f50-9476-8ae9e189eb2a)
 
-- **Análises**
-   - *Painel Fiscal*
-      - *Anexar as Capturas em suas respectivas abas:**
+> **Análises**
+>   -       Painel Fiscal
+>      -       Anexar as Capturas em suas respectivas abas:
 
 > ![image](https://github.com/user-attachments/assets/698b762d-bc30-4e4e-a76c-703e94ba9e25)
 > ![image](https://github.com/user-attachments/assets/e3d5f775-371d-40a5-8b3d-2b3e52648826)
 
 #### 1.2 - 3° Para extrair as bases na Consinco:
 
-- **Sistema**
-   - *Contabilidade*
-      - *Fiscal*
+> **Sistema**
+>   -       Contabilidade
+>      -       Fiscal
 
-  - a) **Documentos fiscais** 
-    - **Relatórios**
-      - *Conferência*
-         - *Documentos fiscais*
-            - *Mês anterior*
-               - *Impressão*
-                  - *Dinâmica (não alterar mais nenhum filtro)*
-                     - *Impressora*
-                           - *Descrição*
-                              - *Base*
-                                 - *Salvar na pasta de fechamento.*
+>  - a) **Documentos fiscais** 
+>    -       Relatórios
+>      -       Conferência
+>         -       Documentos fiscais
+>            -       Mês anterior
+>               -       Impressão
+>                  -       Dinâmica (não alterar mais nenhum filtro)
+>                     -       Impressora
+>                         -       Descrição
+>                             -       Base
+>                                 -       Salvar na pasta de fechamento.
 
 > ![image](https://github.com/user-attachments/assets/4cd7760b-6d26-4e74-8a13-9c5a75b2b51a) ![image](https://github.com/user-attachments/assets/fd6db62a-8c3d-47c8-b4dc-1dea0db8443e)
 
