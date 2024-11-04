@@ -10,64 +10,64 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 > **Sistema**
 >   -     Menu
->     -     Contabilidade
->         -     Fiscal
+>   -     Contabilidade
+>   -     Fiscal
   
 > ![image](https://github.com/user-attachments/assets/d3074ed4-3b3c-4d57-a00f-d150f97668f2)
 
 > **NF-e**
 >   -     Processos
->      -     Notas Fiscais
->         -     Painel de inconsistência
->            -     Tipo todos
->              -     Ferramenta de Captura
->                 -     Salvar no servidor.
+>   -     Notas Fiscais
+>   -     Painel de inconsistência
+>   -     Tipo todos
+>   -     Ferramenta de Captura
+>   -     Salvar no servidor.
 
 > ![image](https://github.com/user-attachments/assets/6368dad2-64ff-4d8e-96a0-baba00f6c0ca)
 
 > **CF**
 >   -     Processos
->      -     Cupons Fiscais
->        -       Inconsistências
->           -       Mês anterior
->              -       Impressora
->                -       Capturar
->                   -       SaLvar no servidor;
+>   -     Cupons Fiscais
+>   -     Inconsistências
+>   -     Mês anterior
+>   -     Impressora
+>   -     Capturar
+>   -     SaLvar no servidor;
 
 > ![image](https://github.com/user-attachments/assets/3b193f4e-ba77-4495-b73c-1acdb6132b77)
 
 > **SAT**
 >   -       Processos
->      -       SAT CF-e
->         -       SAT CF-e
->            -       Consulta cupons inconsistência
->              -       Mês anterior
->                 -       Pesquisa
->                    -       Capturar
->                       -       Salvar no servidor;
+>   -       SAT CF-e
+>   -       SAT CF-e
+>   -       Consulta cupons inconsistência
+>   -       Mês anterior
+>   -       Pesquisa
+>   -       Capturar
+>   -       Salvar no servidor;
 
 > ![image](https://github.com/user-attachments/assets/f0a8481e-0c8d-4d62-b6e8-a010c164f7f7)
 
 > **Quebra Sequencial**
 >   -       Relatórios
->      -       Conferência
->         -       Sequencial de numeração de documentos fiscais
->            -       Mês anterior
->               -       Modelo (gerar CFe SAT e Nfce)
->                  -       Capturar> Salvar no servidor;
+>   -       Conferência
+>   -       Sequencial de numeração de documentos fiscais
+>   -       Mês anterior
+>   -       Modelo (gerar CFe SAT e Nfce)
+>   -       Capturar> Salvar no servidor;
 
 > ![image](https://github.com/user-attachments/assets/d6285bb1-0a56-403d-97a8-4c4ee24ac7fc)
 
 > **Comercial X Fiscal (Sillus X Fiscal)**
 >   -       Relatórios
->      -       Conferência
->         -       Documentos Comercial X Fiscal
->            -       Mês anterior
->               -       Marcar somente loja que estou fechando
->                  -       Todos
->                     -       Impressora
->                        -       Capturar
->                           -       Salvar no servidor.
+>   -       Conferência
+>   -       Documentos Comercial X Fiscal
+>   -       Mês anterior
+>   -       Marcar somente loja que estou fechando
+>   -       Todos
+>   -       Impressora
+>   -       Capturar
+>   -       Salvar no servidor.
 
 > ![image](https://github.com/user-attachments/assets/4ad4d6e2-f8ec-45ec-a674-f4c0e7a99cdd)
 
@@ -75,8 +75,8 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 > **Sistema** 
 >  -       Menu
->     -       Comercial
->        -       Recebimento
+>  -       Comercial
+>  -       Recebimento
 
 > ![image](https://github.com/user-attachments/assets/7d994010-6cb6-43d0-97fa-d9fdc785f420) ![image](https://github.com/user-attachments/assets/7eb41cce-4233-4a9e-a923-79ae18a4fd3c) ![image](https://github.com/user-attachments/assets/61eaedd8-cbb0-43a3-8827-031908049558)
 
@@ -84,15 +84,15 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 > **Fiscal** 
 >   -       Fechamento
->      -       Em Fechamento
->         -       Painel Fiscal
->            -       Selecionar a Empresa.
+>   -       Em Fechamento
+>   -       Painel Fiscal
+>   -       Selecionar a Empresa.
 
 > ![image](https://github.com/user-attachments/assets/a2729832-1cb7-498d-aed9-bed8499b1f46) ![image](https://github.com/user-attachments/assets/a9954ca3-e02c-4f50-9476-8ae9e189eb2a)
 
 > **Análises**
 >   -       Painel Fiscal
->      -       Anexar as Capturas em suas respectivas abas:
+>   -       Anexar as Capturas em suas respectivas abas:
 
 > ![image](https://github.com/user-attachments/assets/698b762d-bc30-4e4e-a76c-703e94ba9e25)
 > ![image](https://github.com/user-attachments/assets/e3d5f775-371d-40a5-8b3d-2b3e52648826)
@@ -101,39 +101,39 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 > **Sistema**
 >   -       Contabilidade
->      -       Fiscal
+>   -       Fiscal
 
 >  - a) **Documentos fiscais** 
 >    -       Relatórios
->      -       Conferência
->         -       Documentos fiscais
->            -       Mês anterior
->               -       Impressão
->                  -       Dinâmica (não alterar mais nenhum filtro)
->                     -       Impressora
->                         -       Descrição
->                             -       Base
->                                 -       Salvar na pasta de fechamento.
+>    -       Conferência
+>    -       Documentos fiscais
+>    -       Mês anterior
+>    -       Impressão
+>    -       Dinâmica (não alterar mais nenhum filtro)
+>    -       Impressora
+>    -       Descrição
+>    -       Base
+>    -       Salvar na pasta de fechamento.
 
 > ![image](https://github.com/user-attachments/assets/4cd7760b-6d26-4e74-8a13-9c5a75b2b51a) ![image](https://github.com/user-attachments/assets/fd6db62a-8c3d-47c8-b4dc-1dea0db8443e)
 
 > - b) **Base do relatório UF** 
 >      -       Relatórios
->         -       Conferência
->            -       Operações e prestações por UF-ICMS/IPI
->               -       Mês anterior
->                  -       Desflegar empresa
->                     -       Salvar na pasta de fechamento.
+>      -       Conferência
+>      -       Operações e prestações por UF-ICMS/IPI
+>      -       Mês anterior
+>      -       Desflegar empresa
+>      -       Salvar na pasta de fechamento.
 
 > ![image](https://github.com/user-attachments/assets/b2386f72-17f1-42fa-9e6f-fde3446ce54b) ![image](https://github.com/user-attachments/assets/d1ca2415-cd6e-466d-9084-c377e04d6483)
 
 > - c)	**Base de saídas** 
 >   -       Relatórios
->      -       Livros fiscais
->         -       Saída
->            -       Mês anterior (não alterar mais nenhum filtro)
->               -       Imprimir em arquivo
->                 -       Salvar na  pasta de fechamento.
+>   -       Livros fiscais
+>   -       Saída
+>   -       Mês anterior (não alterar mais nenhum filtro)
+>   -       Imprimir em arquivo
+>   -       Salvar na  pasta de fechamento.
 
 > ![image](https://github.com/user-attachments/assets/0a1c21d1-515e-4136-9c61-2a22098c419d) ![image](https://github.com/user-attachments/assets/d83412d7-5587-4936-9a1d-9e6c10e39850)
 
@@ -143,50 +143,50 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 #### 1.4 - 5° Importar no sistema Etccom:
 
-- **Sistema**
-   - *Contabilidade*
-      - *Fiscal*
+> **Sistema**
+>   -       Contabilidade
+>   -       Fiscal
   
-  - a) **Entrada Resumo** 
-    - *Relatórios*
-       - *Livros fiscais
-          - *Entrada*
-             - *Mês anterior*
-                - *Imprimir somente resumo - Impressora - salvar em pdf.*
+>  - a) **Entrada Resumo** 
+>    -       Relatórios
+>    -       Livros fiscais
+>    -       Entrada
+>    -       Mês anterior
+>    -       Imprimir somente resumo - Impressora - salvar em pdf.
 
 > ![image](https://github.com/user-attachments/assets/36f076ea-fd50-4a36-9f5f-543851daf792) ![image](https://github.com/user-attachments/assets/b188b179-3a51-44e8-a1d6-f21b9bd2b283)
 
-  - b) **Saída Resumo**
-    - *Relatórios*
-       - *Livros fiscais*
-          - *Saída*
-             - Mês anterior*
-                - Imprimir somente resumo - Impressora - salvar em pdf.*
+> - b) **Saída Resumo**
+>    -       Relatórios
+>    -       Livros fiscais
+>    -       Saída
+>    -       Mês anterior
+>    -       Imprimir somente resumo - Impressora - salvar em pdf.*
 
 ![image](https://github.com/user-attachments/assets/645951d6-8352-4d90-9499-b236635814bf) ![image](https://github.com/user-attachments/assets/bac8e6eb-2ca8-4861-b04b-310c399b4d4b)
 
-  - c) **Venda Fiscal**
-    - *Relatórios*
-      - *Livros fiscais*
-         -  *Saída*
-            - *Mês anterior*
-               - *Imprimir somente resumo*
-                  - *Filtrar CFOP (por período)*
-                     - *Clicar direito mouse (desmarcar todos)*
-                        - *5.102 | 5.405 | 6.102 | 6.405*
-                           - *Impressora - salvar em pdf.*
+>  - c) **Venda Fiscal**
+>    -       Relatórios
+>    -       Livros fiscais
+>    -       Saída
+>    -       Mês anterior
+>    -       Imprimir somente resumo
+>    -       Filtrar CFOP (por período)
+>    -       Clicar direito mouse (desmarcar todos)
+>    -       5.102 | 5.405 | 6.102 | 6.405
+>    -       Impressora - salvar em pdf.
 
 > ![image](https://github.com/user-attachments/assets/9cd995e6-ebdd-4ba7-841e-26117b36a43d) ![image](https://github.com/user-attachments/assets/eeba10a6-e77c-45a4-a9e0-2eef1191f8e8)
 
-  - d) **Impressão dos livros de entrada** 
-    - *Relatórios*
-       - *Livros fiscais*
-          - *Entrada*
-             - *Mês anterior*
-                - *Imprime emitente junto à nota*
-                   - *Filtrar CFOP (período)*
-                      - *Selecionar CFOP*
-                         - Impressora > salvar em pdf > imprimir.*
+>  - d) **Impressão dos livros de entrada** 
+>    -       Relatórios
+>    -       Livros fiscais
+>    -       Entrada
+>    -       Mês anterior
+>    -       Imprime emitente junto à nota
+>    -       Filtrar CFOP (período)
+>    -       Selecionar CFOP
+>    -       Impressora > salvar em pdf > imprimir.
 
 > ![image](https://github.com/user-attachments/assets/5bb09faf-ba90-4fe1-b626-af45a3cc650d) ![image](https://github.com/user-attachments/assets/97bfdded-8e23-4b7c-a4f0-dc7b1bd99d72)
 
@@ -200,11 +200,11 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 **Movimento de títulos de obrigações** 
 
-- *Sistema*
-   - *Financeiro*
-      - *Operador*
-         - *Relatório*
-            -  *Movimento de títulos > aplicar filtros > empresa > data > selecionar obrigação > espécie GAREST e GNRE > operações (lupa) - incluir títulos 16 > imprimir > salvar em pdf > imprimir.*
+> *Sistema*
+>   - *Financeiro*
+>     - *Operador*
+>         - *Relatório*
+>            -  *Movimento de títulos > aplicar filtros > empresa > data > selecionar obrigação > espécie GAREST e GNRE > operações (lupa) - incluir títulos 16 > imprimir > salvar em pdf > imprimir.*
 
 ![image](https://github.com/user-attachments/assets/b5819502-d6f5-49e9-838a-02f266c9c5a0)
 
@@ -301,11 +301,11 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 > ![image](https://github.com/user-attachments/assets/05f29d84-6c39-46cb-b6ca-9e73d712017f) ![image](https://github.com/user-attachments/assets/6d7c48db-b77e-4e03-899d-30f728d6a93f)
 
-- **Para relatório de perdas e devolução PIS COFINS**
-   - *Fiscal*
-      - *Processos*
-         - *Apuração PIS COFINS*
-            -  *Conferência de devolução de compra e estorno > período anterior > seleciona empresa > sintético por nota fiscal > filtrar por CGO de perdas e de devolução > período > impressora > salvar e imprimir.*
+> **Para relatório de perdas e devolução PIS COFINS**
+>   - *Fiscal*
+>      - *Processos*
+>         - *Apuração PIS COFINS*
+>            -  *Conferência de devolução de compra e estorno > período anterior > seleciona empresa > sintético por nota fiscal > filtrar por CGO de perdas e de devolução > período > impressora > salvar e imprimir.*
 
 > ![image](https://github.com/user-attachments/assets/58c197f5-5397-4602-b219-50f4fb53d296) ![image](https://github.com/user-attachments/assets/c30b9cb6-ba9a-4d9c-a5ee-7f0e477226ac)
 
