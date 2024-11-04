@@ -8,41 +8,85 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 ```Acessarmos o sistema da Consinco para analisar os painéis, se existem inconsistências:```
 
-- **Sistema> Menu > Contabilidade > Fiscal**
+- **Sistema**
+   - *Menu*
+      - *Contabilidade*
+         - *Fiscal*
   
 > ![image](https://github.com/user-attachments/assets/d3074ed4-3b3c-4d57-a00f-d150f97668f2)
 
-- **NF-e > Processos > Notas Fiscais > painel de inconsistência > Tipo todos > Ferramenta de Captura> Salvar no servidor.**
+- **NF-e**
+   - *Processos*
+      - *Notas Fiscais*
+         - *Painel de inconsistência*
+            - *Tipo todos*
+              - *Ferramenta de Captura*
+                 - *Salvar no servidor.*
 
 > ![image](https://github.com/user-attachments/assets/6368dad2-64ff-4d8e-96a0-baba00f6c0ca)
 
-- **CF > Processos > Cupons Fiscais > Inconsistências > mês anterior > impressora > Capturar> Salvar no servidor;**
+- **CF**
+   - *Processos*
+      - *Cupons Fiscais*
+        - *Inconsistências*
+           - *Mês anterior*
+              - *Impressora*
+                - *Capturar*
+                   - *SaLvar no servidor;*
 
 > ![image](https://github.com/user-attachments/assets/3b193f4e-ba77-4495-b73c-1acdb6132b77)
 
-- **SAT > Processos > SAT CF-e > SAT CF-e > consulta cupons inconsistência > mês anterior > pesquisa > Capturar> Salvar no servidor;**
+- **SAT**
+   - *Processos
+      - *SAT CF-e*
+         - *SAT CF-e*
+            - *Consulta cupons inconsistência*
+              - *Mês anterior*
+                 - *Pesquisa*
+                    - *Capturar*
+                       - *Salvar no servidor;*
 
 > ![image](https://github.com/user-attachments/assets/f0a8481e-0c8d-4d62-b6e8-a010c164f7f7)
 
-- **Quebra Sequencial > Relatórios > Conferência > Sequencial de numeração de documentos fiscais> mês anterior > modelo (gerar CFe SAT e Nfce) > Capturar> Salvar no servidor;**
+- **Quebra Sequencial**
+   - *Relatórios*
+      - *Conferência*
+         - *Sequencial de numeração de documentos fiscais*
+            - *Mês anterior*
+               - *Modelo (gerar CFe SAT e Nfce)*
+                  - *Capturar> Salvar no servidor;*
 
 > ![image](https://github.com/user-attachments/assets/d6285bb1-0a56-403d-97a8-4c4ee24ac7fc)
 
-- **Comercial X Fiscal (Sillus X Fiscal) > Relatórios > Conferência > Documentos Comercial X Fiscal > mês anterior > marcar somente loja que estou fechando > todos > impressora > Capturar> Salvar no servidor.**
+- **Comercial X Fiscal (Sillus X Fiscal)**
+   - *Relatórios*
+      - *Conferência*
+         - *Documentos Comercial X Fiscal*
+            - *Mês anterior*
+               - *Marcar somente loja que estou fechando*
+                  - *Todos*
+                     - *Impressora*
+                        - *Capturar*
+                           - *Salvar no servidor.*
 
 > ![image](https://github.com/user-attachments/assets/4ad4d6e2-f8ec-45ec-a674-f4c0e7a99cdd)
 
 ```Ainda na Consinco, alterar o módulo:```
 
 - **Sistema** 
-  - *> Menu > Comercial > Recebimento*
+  - *Menu*
+     - *Comercial*
+        - *Recebimento*
 
 > ![image](https://github.com/user-attachments/assets/7d994010-6cb6-43d0-97fa-d9fdc785f420) ![image](https://github.com/user-attachments/assets/7eb41cce-4233-4a9e-a923-79ae18a4fd3c) ![image](https://github.com/user-attachments/assets/61eaedd8-cbb0-43a3-8827-031908049558)
 
 #### 1.2 - 2º inserir no sistema Etccom:
 
 - **Fiscal** 
-   - *> Fechamento > Em Fechamento > Painel Fiscal > Selecionar a Empresa.*
+   - *Fechamento*
+      - *Em Fechamento*
+         - *Painel Fiscal*
+            - *Selecionar a Empresa.*
 
 > ![image](https://github.com/user-attachments/assets/a2729832-1cb7-498d-aed9-bed8499b1f46) ![image](https://github.com/user-attachments/assets/a9954ca3-e02c-4f50-9476-8ae9e189eb2a)
 
@@ -53,10 +97,12 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 #### 1.2 - 3° Para extrair as bases na Consinco:
 
-- **Sistema > Contabilidade > Fiscal**
+- **Sistema**
+   - *Contabilidade*
+      - *Fiscal*
 
   - a) **Documentos fiscais** 
-    - > Relatórios > conferência > documentos fiscais > mês anterior > impressão dinâmica (não alterar mais nenhum filtro) > impressora > descrição > base > salvar na pasta de fechamento.
+    - Relatórios > conferência > documentos fiscais > mês anterior > impressão dinâmica (não alterar mais nenhum filtro) > impressora > descrição > base > salvar na pasta de fechamento.
 
 > ![image](https://github.com/user-attachments/assets/4cd7760b-6d26-4e74-8a13-9c5a75b2b51a) ![image](https://github.com/user-attachments/assets/fd6db62a-8c3d-47c8-b4dc-1dea0db8443e)
 
