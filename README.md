@@ -90,7 +90,9 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 
 > ![image](https://github.com/user-attachments/assets/a2729832-1cb7-498d-aed9-bed8499b1f46) ![image](https://github.com/user-attachments/assets/a9954ca3-e02c-4f50-9476-8ae9e189eb2a)
 
-- **Análises > Painel Fiscal > Anexar as Capturas em suas respectivas abas:**
+- **Análises**
+   - *Painel Fiscal*
+      - *Anexar as Capturas em suas respectivas abas:**
 
 > ![image](https://github.com/user-attachments/assets/698b762d-bc30-4e4e-a76c-703e94ba9e25)
 > ![image](https://github.com/user-attachments/assets/e3d5f775-371d-40a5-8b3d-2b3e52648826)
@@ -102,13 +104,26 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
       - *Fiscal*
 
   - a) **Documentos fiscais** 
-    - Relatórios > conferência > documentos fiscais > mês anterior > impressão dinâmica (não alterar mais nenhum filtro) > impressora > descrição > base > salvar na pasta de fechamento.
+    - **Relatórios**
+      - *Conferência*
+         - *Documentos fiscais*
+            - *Mês anterior*
+               - *Impressão*
+                  - *Dinâmica (não alterar mais nenhum filtro)*
+                     - *Impressora*
+                        - *Descrição*
+                           - *Base*
+                              - *Salvar na pasta de fechamento.*
 
 > ![image](https://github.com/user-attachments/assets/4cd7760b-6d26-4e74-8a13-9c5a75b2b51a) ![image](https://github.com/user-attachments/assets/fd6db62a-8c3d-47c8-b4dc-1dea0db8443e)
 
  - b) **Base do relatório UF** 
-   - *Relatórios*
-      - *Conferência > operações e prestações por UF-ICMS/IPI > mês anterior > desflegar empresa > salvar na pasta de fechamento.*
+   - **Relatórios**
+      - *Conferência*
+         - *Operações e prestações por UF-ICMS/IPI*
+            - *Mês anterior*
+               - *Desflegar empresa*
+                  - *Salvar na pasta de fechamento.*
 
 > ![image](https://github.com/user-attachments/assets/b2386f72-17f1-42fa-9e6f-fde3446ce54b) ![image](https://github.com/user-attachments/assets/d1ca2415-cd6e-466d-9084-c377e04d6483)
 
