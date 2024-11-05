@@ -298,7 +298,8 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 >   -       10.Livro apuração ICMS - Impressora >
 >   -       11.Salvar apuração ICMS em PDF > salvar resumo da apuração em PDF.
 
-> ![image](https://github.com/user-attachments/assets/3a18df2f-c4fd-40c6-b11f-6f0451af8bd3) ![image](https://github.com/user-attachments/assets/a08f5cb0-177c-497a-b7a1-137b86c31960)
+> ![image](https://github.com/user-attachments/assets/3a18df2f-c4fd-40c6-b11f-6f0451af8bd3)
+> ![image](https://github.com/user-attachments/assets/a08f5cb0-177c-497a-b7a1-137b86c31960)
 > ![image](https://github.com/user-attachments/assets/fe76a358-149f-4353-8a93-02611d9c1a06)
 
 > **Para lançamento de ajustes**
