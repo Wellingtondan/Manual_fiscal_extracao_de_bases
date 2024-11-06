@@ -249,9 +249,9 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 >![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c) ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
 
 >  - b) **Vendas Gerencial**
->    -       1.Gerencial > Análise ABC venda distribuição > mês passado > detalhe 1:
->    -       2.CGO > detalhe 2:
->    -       3.Total > confirmar > impressora > salvar relatório em pdf.
+>    -       1.Gerencial > Análise ABC venda distribuição
+>    -       2.Mês passado > detalhe 1: CGO
+>    -       2.Detalhe 2: Total > confirmar > impressora > salvar relatório em pdf.
 
 > ![image](https://github.com/user-attachments/assets/ac4bbf8c-063b-40d1-a80d-80b3196542f3) ![image](https://github.com/user-attachments/assets/d9bf24b1-1b4f-4698-b1ae-cc46f4b7a926)
 
