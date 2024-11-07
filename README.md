@@ -100,14 +100,15 @@ Aqui apresenta omo coletar os prints de cada painel de inconsistência para que 
 
 > ![image](https://github.com/user-attachments/assets/a2729832-1cb7-498d-aed9-bed8499b1f46) ![image](https://github.com/user-attachments/assets/a9954ca3-e02c-4f50-9476-8ae9e189eb2a)
 
-Selecione o tipo da inconsistência que deseja inserir o print do painel no início do fechamento:
-
 > **Análises**
 
 >   -       1.Painel Fiscal
 >   -       2.Anexar as Capturas em suas respectivas abas:
 
 > ![image](https://github.com/user-attachments/assets/698b762d-bc30-4e4e-a76c-703e94ba9e25)
+
+Selecione o tipo da inconsistência que deseja inserir o print do painel no início do fechamento:
+
 > ![image](https://github.com/user-attachments/assets/e3d5f775-371d-40a5-8b3d-2b3e52648826)
 
 #### 1.2 - 3° Para extrair as bases na Consinco:
