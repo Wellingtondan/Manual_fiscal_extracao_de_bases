@@ -157,9 +157,13 @@ Selecione o tipo da inconsistência que deseja inserir o print do painel no iní
 
 #### 1.3 - 4° Importar no sistema Etccom:
 
+Nessa etapa são realizadas as importações das bases em fonte de dados: 
+
+ℹ️ "Documentos Fiscais", "Base UF" e "Base Saídas":
+
 > ![image](https://github.com/user-attachments/assets/abe0dad9-18cb-4f98-8cb3-2ddd5deaef5d)
 
-#### 1.4 - 5° Importar no sistema Etccom (ENTRADAS / SAÍDAS 👈):
+#### 1.4 - 5° Importações dos relatórios no sistema (ENTRADAS / SAÍDAS 👈):
 
 > **Sistema**
 
@@ -210,6 +214,17 @@ Selecione o tipo da inconsistência que deseja inserir o print do painel no iní
 >    -       2.Detalhe 2: Total > confirmar > impressora > salvar relatório em pdf.
 
 > ![image](https://github.com/user-attachments/assets/ac4bbf8c-063b-40d1-a80d-80b3196542f3) ![image](https://github.com/user-attachments/assets/d9bf24b1-1b4f-4698-b1ae-cc46f4b7a926)
+
+##### 1.4.1 - Conferência (ENTRADAS / SAÍDAS 👈):
+
+Apenas para conhecimento, os impostos são agrupados por CFOP pela base de saídas.
+
+E a conferência é realizada através do filtro de CFOP **5102** e **5405** (Vendas) que são relacionadas ao relatório de VENDA FISCAL.
+
+As bases de SAÍDAS e ENTRADAS fazem comparativo com a BASE UF.
+ 
+Com a 
+
 
 >  - e) **Produtor Rural > Gerencial > Análise ABC de entradas > mês passado > detalhe 1:**
 >    -      1.Cidade > detalhe 2:
