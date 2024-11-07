@@ -221,7 +221,7 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 
 ##### 1.4.1 - Conferência (ENTRADAS / SAÍDAS 👈):
 
-> [!NOTE]
+> [!IMPORTANT]
 > Apenas para conhecimento, os impostos são agrupados por CFOP pela base de saídas.
 
 > E a conferência é realizada através dos CFOPs de vendas que são **5102** e **5405**, são relacionados ao relatório de VENDA FISCAL para encontrar o VALOR CONTÁBIL, e para a conferência do ***"Comparativo Base Saídas x Base UF"*** se utilizada do relatório ***"Saída Resumo"***, já para o ***"Comparativo Entradas x Base UF"*** se utiliza o relatório ***"Entrada Resumo"***.
