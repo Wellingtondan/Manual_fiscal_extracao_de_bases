@@ -6,6 +6,8 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
    
 #### 1.1 - 1º Passo 
 
+Aqui apresenta omo coletar os prints de cada painel de inconsistência para que insira nas análises "Painel Fiscal".
+
 ```Acessarmos o sistema da Consinco para analisar os painéis, se existem inconsistências:```
 
 > **Sistema**
