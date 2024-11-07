@@ -213,7 +213,7 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
 > ![image](https://github.com/user-attachments/assets/c000a03f-3f41-4224-98a7-55637612aa07)
 
 >     GARES e GNRE pagas 
->     imprimir relatório da Conta Fiscal para conferir e confirmar pagamentos
+>     imprimir relatório da Conta Fiscal (Posto Fiscal - Sefaz) para conferir e confirmar pagamentos
 >     conferir dados da observação do livro: valor, vencimento, código e artigo.
 
 **Movimento de títulos de obrigações** 
