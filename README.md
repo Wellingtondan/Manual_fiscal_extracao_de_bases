@@ -219,11 +219,19 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 
 Apenas para conhecimento, os impostos são agrupados por CFOP pela base de saídas.
 
-E a conferência é realizada através do filtro de CFOP **5102** e **5405** (Vendas) que são relacionadas ao relatório de VENDA FISCAL.
+E a conferência é realizada através dos CFOPs de vendas que são **5102** e **5405**, são relacionados ao relatório de VENDA FISCAL para encontrar o VALOR CONTÁBIL, e para s conferência do ***"Comparativo Base Saídas x Base UF"*** se utilizada do relatório ***"Saída Resumo"***, já para o ***"Comparativo Entradas x Base UF"*** se utiliza o relatório ***"Entrada Resumo"***.
+
+> ![image](https://github.com/user-attachments/assets/756a178f-052c-474f-addf-d34caf7cde1b)
+
+
+
 
 As bases de SAÍDAS e ENTRADAS fazem comparativo com a BASE UF.
  
 Com a 
+
+> ![image](https://github.com/user-attachments/assets/97683ca8-40a5-490a-b650-3bb86e940d63)
+
 
 
 >  - e) **Produtor Rural > Gerencial > Análise ABC de entradas > mês passado > detalhe 1:**
@@ -232,7 +240,7 @@ Com a
 >    -      3.Somente os CGOs escolhidos > escolher CGOs > manter Crtl para selecionar CGOs >
 >    -      4.Clicar em retornar   > confirmar > impressora > salvar relatório em pdf.*
 
->![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c) ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
+> ![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c) ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
 
 
 
