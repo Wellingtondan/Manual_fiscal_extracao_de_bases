@@ -223,7 +223,6 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 
 > [!IMPORTANT]
 > Apenas para conhecimento, os impostos são agrupados por CFOP pela base de saídas.
-
 > E a conferência é realizada através dos CFOPs de vendas que são **5102** e **5405**, são relacionados ao relatório de VENDA FISCAL para encontrar o VALOR CONTÁBIL, e para a conferência do ***"Comparativo Base Saídas x Base UF"*** se utilizada do relatório ***"Saída Resumo"***, já para o ***"Comparativo Entradas x Base UF"*** se utiliza o relatório ***"Entrada Resumo"***.
 
 > O relatório de análise do ***"Vendas Gerencial"*** faz o comparativo entre o Valor Total líquido com o valor contábil de Vendas fiscal, os dois precisam estar com os valores iguais!
