@@ -216,13 +216,15 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 
 > ![image](https://github.com/user-attachments/assets/ac4bbf8c-063b-40d1-a80d-80b3196542f3) ![image](https://github.com/user-attachments/assets/d9bf24b1-1b4f-4698-b1ae-cc46f4b7a926) ![image](https://github.com/user-attachments/assets/3820a41d-b98b-4aa0-b139-1debae1f886d)
 
-No ***"Vendas Gerencial"*** os CGOs vinculados para análise são de particularidade de cada cliente, nesse exemplo utilizei como base o do cliente ARROZ ESTRELA, os CGOs utilizados para conferência foram o 810, 811, 814, 830 e 840. Basta clicar na seta⬅️ para que puxe a relação dos CGOs, e ao clicar no botão verde serão extraídas as informações no relatório.
+No ***"Vendas Gerencial"*** os CGOs vinculados para análise são de particularidade de cada cliente, nesse exemplo utilizei como base o do cliente ARROZ ESTRELA, os CGOs utilizados para conferência foram o 810, 811, 814, 830 e 840. Basta clicar na seta⬅️ para que puxe a relação dos CGOs, e ao clicar no botão verde serão extraídas as informações para a tela inicial, basta clicar na impressora para gerar o relatório.
 
 ##### 1.4.1 - Conferência (ENTRADAS / SAÍDAS 👈):
 
 Apenas para conhecimento, os impostos são agrupados por CFOP pela base de saídas.
 
 E a conferência é realizada através dos CFOPs de vendas que são **5102** e **5405**, são relacionados ao relatório de VENDA FISCAL para encontrar o VALOR CONTÁBIL, e para a conferência do ***"Comparativo Base Saídas x Base UF"*** se utilizada do relatório ***"Saída Resumo"***, já para o ***"Comparativo Entradas x Base UF"*** se utiliza o relatório ***"Entrada Resumo"***.
+
+O relatório de análise do ***"Vendas Gerencial"*** faz o comparativo entre o Valor Total líquido com o valor contábil de Vendas fiscal, os dois precisam estar com os valores iguais!
 
 > ![image](https://github.com/user-attachments/assets/756a178f-052c-474f-addf-d34caf7cde1b)
 
