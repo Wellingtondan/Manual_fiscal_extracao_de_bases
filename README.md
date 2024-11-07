@@ -1,12 +1,12 @@
 ## Manual de Extração de Bases e Relatórios para Fechamento Fiscal 
 
-Nesse repositório contêm algumas orientações e passo a passo para extração e relatórios para fechamento fiscal.
+Nesse repositório contém algumas orientações e passo a passo para extração e relatórios para fechamento fiscal.
 
 ### 1. Seguindo o passa a passo
    
 #### 1.1 - 1º Passo 
 
-Aqui apresenta omo coletar os **prints** de cada painel de inconsistência para que insira nas análises ***"Painel Fiscal"**.
+Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência para que insira nas análises ***"Painel Fiscal"**.
 
 ```Acessarmos o sistema da Consinco para analisar os painéis, se existem inconsistências:```
 
