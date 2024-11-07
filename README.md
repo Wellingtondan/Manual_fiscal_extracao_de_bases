@@ -210,8 +210,9 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 
 >  - d) **Vendas Gerencial**
 >    -       1.Gerencial > Análise ABC venda distribuição
->    -       2.Mês passado > detalhe 1: CGO
->    -       2.Detalhe 2: Total > confirmar > impressora > salvar relatório em pdf.
+>    -       2.Mês passado
+>    -       3.Detalhe 1: CGO
+>    -       4.Detalhe 2: Total > confirmar > impressora > salvar relatório em pdf.
 
 > ![image](https://github.com/user-attachments/assets/ac4bbf8c-063b-40d1-a80d-80b3196542f3) ![image](https://github.com/user-attachments/assets/d9bf24b1-1b4f-4698-b1ae-cc46f4b7a926)
 
