@@ -6,7 +6,7 @@ Nesse repositório contêm algumas orientações e passo a passo para extração
    
 #### 1.1 - 1º Passo 
 
-Aqui apresenta omo coletar os prints de cada painel de inconsistência para que insira nas análises "Painel Fiscal".
+Aqui apresenta omo coletar os **prints** de cada painel de inconsistência para que insira nas análises ***"Painel Fiscal"**.
 
 ```Acessarmos o sistema da Consinco para analisar os painéis, se existem inconsistências:```
 
@@ -159,7 +159,7 @@ Selecione o tipo da inconsistência que deseja inserir o print do painel no iní
 
 > ![image](https://github.com/user-attachments/assets/abe0dad9-18cb-4f98-8cb3-2ddd5deaef5d)
 
-#### 1.4 - 5° Importar no sistema Etccom:
+#### 1.4 - 5° Importar no sistema Etccom (ENTRADAS / SAÍDAS 👈):
 
 > **Sistema**
 
@@ -199,6 +199,31 @@ Selecione o tipo da inconsistência que deseja inserir o print do painel no iní
 >    -       9.Impressora - salvar em pdf.
 
 > ![image](https://github.com/user-attachments/assets/9cd995e6-ebdd-4ba7-841e-26117b36a43d) ![image](https://github.com/user-attachments/assets/eeba10a6-e77c-45a4-a9e0-2eef1191f8e8)
+
+```Sistema Consinco > Comercial > Gerencial```
+
+> ![image](https://github.com/user-attachments/assets/628d2948-2207-483d-9100-eafc0895f35b)
+
+>  - d) **Vendas Gerencial**
+>    -       1.Gerencial > Análise ABC venda distribuição
+>    -       2.Mês passado > detalhe 1: CGO
+>    -       2.Detalhe 2: Total > confirmar > impressora > salvar relatório em pdf.
+
+> ![image](https://github.com/user-attachments/assets/ac4bbf8c-063b-40d1-a80d-80b3196542f3) ![image](https://github.com/user-attachments/assets/d9bf24b1-1b4f-4698-b1ae-cc46f4b7a926)
+
+>  - e) **Produtor Rural > Gerencial > Análise ABC de entradas > mês passado > detalhe 1:**
+>    -      1.Cidade > detalhe 2:
+>    -      2.UF > filtro por CGO de produtor > abrir opções de CGO >
+>    -      3.Somente os CGOs escolhidos > escolher CGOs > manter Crtl para selecionar CGOs >
+>    -      4.Clicar em retornar   > confirmar > impressora > salvar relatório em pdf.*
+
+>![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c) ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
+
+
+
+
+
+
 
 >  - d) **Impressão dos livros de entrada**
 
@@ -252,13 +277,6 @@ Selecione o tipo da inconsistência que deseja inserir o print do painel no iní
 >    -      4.Clicar em retornar   > confirmar > impressora > salvar relatório em pdf.*
 
 >![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c) ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
-
->  - b) **Vendas Gerencial**
->    -       1.Gerencial > Análise ABC venda distribuição
->    -       2.Mês passado > detalhe 1: CGO
->    -       2.Detalhe 2: Total > confirmar > impressora > salvar relatório em pdf.
-
-> ![image](https://github.com/user-attachments/assets/ac4bbf8c-063b-40d1-a80d-80b3196542f3) ![image](https://github.com/user-attachments/assets/d9bf24b1-1b4f-4698-b1ae-cc46f4b7a926)
 
 ### 1.5 - 6° Relatório de perdas
 
