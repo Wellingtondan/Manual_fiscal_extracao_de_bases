@@ -90,6 +90,7 @@ Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência p
 > ![image](https://github.com/user-attachments/assets/7d994010-6cb6-43d0-97fa-d9fdc785f420) ![image](https://github.com/user-attachments/assets/7eb41cce-4233-4a9e-a923-79ae18a4fd3c) ![image](https://github.com/user-attachments/assets/61eaedd8-cbb0-43a3-8827-031908049558)
 
 **OBSERVAÇÃO:** Antes de iniciar qualquer fechamento, verifique se as inconsistências precisam ser liberadas e solucionadas.
+----------------------------------------------------------------------------
 
 #### 1.2 - 2º inserir no sistema Etccom:
 
@@ -112,6 +113,7 @@ Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência p
 **OBSERVAÇÃO:** Selecione o tipo da inconsistência que deseja inserir o print do painel no início do fechamento:
 
 > ![image](https://github.com/user-attachments/assets/e3d5f775-371d-40a5-8b3d-2b3e52648826)
+----------------------------------------------------------------------------
 
 #### 1.2 - 3° Para extrair as bases na Consinco:
 
@@ -164,6 +166,7 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 ℹ️ "Documentos Fiscais", "Base UF" e "Base Saídas":
 
 > ![image](https://github.com/user-attachments/assets/abe0dad9-18cb-4f98-8cb3-2ddd5deaef5d)
+----------------------------------------------------------------------------
 
 #### 1.4 - 5° Importações dos relatórios no sistema (ENTRADAS / SAÍDAS 👈):
 
@@ -250,7 +253,7 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 - ➡️ENTRADA RESUMO são observados os campos VALOR CONTÁBIL, BASE ICMS, VALOR ICMS, ISENTO E OUTROS.
 
 > ![image](https://github.com/user-attachments/assets/756a178f-052c-474f-addf-d34caf7cde1b)
-
+----------------------------------------------------------------------------
 
 #### 1.5 - 6° Conferências DARE (ANÁLISES - VENDA CONTÁBIL👈):
 
