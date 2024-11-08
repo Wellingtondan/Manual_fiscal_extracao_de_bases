@@ -263,7 +263,7 @@ No tópico **VENDA CONTÁBIL** são realizadas as análises do Livro DARE para v
 - 📁Baixar Livro para verificar as observações: *valor, vencimento, código e artigo*. Salve na pasta DARE como o nome **LIVRO DARE**.
 >![image](https://github.com/user-attachments/assets/2bccdc25-32ab-43cf-93db-e6e7f44a21f1)
 
-- 📁Acessar o Posto Fiscal - Sefaz para conferência dos valores e confirmação de pagamentos de guias, salvar como **CONTA FISCAL** na pasta DARE.
+- 📁Acessar o **Posto Fiscal - Sefaz** para conferência dos valores e confirmação de pagamentos de guias, salvar como **CONTA FISCAL** na pasta DARE.
 >![image](https://github.com/user-attachments/assets/31b9ac71-2c70-41cb-a86c-702af0a28cbe)
 
 - 📁Baixar relatório de **MOVIMENTO DE TÍTULOS DE OBRIGAÇÕES** para verificar se todas as obrigações de GNRE foram inclusas:
