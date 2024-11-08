@@ -207,6 +207,7 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 > ![image](https://github.com/user-attachments/assets/9cd995e6-ebdd-4ba7-841e-26117b36a43d) ![image](https://github.com/user-attachments/assets/eeba10a6-e77c-45a4-a9e0-2eef1191f8e8)
 
 >  - d) **Vendas Gerencial**
+
 >    -       1.Gerencial > Análise ABC venda distribuição
 >    -       2.Mês passado
 >    -       3.Detalhe 1: CGO
