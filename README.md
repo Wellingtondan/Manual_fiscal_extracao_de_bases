@@ -229,10 +229,10 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 
 > O relatório de análise do ***"Vendas Gerencial"*** faz o comparativo entre o Valor Total líquido com o valor contábil de Vendas fiscal, os dois precisam estar com os valores iguais!
 
-**VENDAS GERENCIAL**
+☑️**VENDAS GERENCIAL**
 > ![image](https://github.com/user-attachments/assets/6ddd3b26-6615-4a2c-ac82-f0510882e875)
 
-**VENDAS FISCAL**
+☑️**VENDAS FISCAL**
 >![image](https://github.com/user-attachments/assets/ff6f2eac-d86e-435e-8da8-6226dfd7af45)
 
 
