@@ -222,11 +222,11 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 > [!NOTE]
 > No ***"Vendas Gerencial"*** os CGOs vinculados para análise são de particularidade de cada cliente, nesse exemplo utilizei como base do cliente ARROZ ESTRELA, os CGOs utilizados para conferência foram o 810, 811, 814, 830 e 840. Basta clicar na seta⬅️ para que puxe a relação dos CGOs, e ao clicar no botão verde serão extraídas as informações para a tela inicial, basta clicar na impressora para gerar o relatório.
 
-##### 1.4.1 - Conferência (ENTRADAS / SAÍDAS 👈):
+##### 1.4.1 - Conferência (ANÁLISES - ENTRADAS / SAÍDAS 👈):
 
 > [!IMPORTANT]
 > Apenas para conhecimento, os impostos são agrupados por CFOP pela base de saídas.
-> E a conferência é realizada através dos CFOPs de vendas que são **5102** e **5405**, são relacionados ao relatório de VENDA FISCAL para encontrar o VALOR CONTÁBIL, e para a conferência do ***"Comparativo Base Saídas x Base UF"*** se utilizada do relatório ***"Saída Resumo"***, já para o ***"Comparativo Entradas x Base UF"*** se utiliza o relatório ***"Entrada Resumo"***.
+> E a conferência é realizada através dos CFOPs de vendas que são **5102** e **5405** que em sua maioria são utilizadas, porém, existem clientes que também se utilizam de outros CFOPs, esses são relacionados ao relatório de VENDA FISCAL para encontrar o VALOR CONTÁBIL, e para a conferência do ***"Comparativo Base Saídas x Base UF"*** se utilizada do relatório ***"Saída Resumo"***, já para o ***"Comparativo Entradas x Base UF"*** se utiliza o relatório ***"Entrada Resumo"***.
 
 > O relatório de análise do ***"Vendas Gerencial"*** faz o comparativo entre o Valor Total líquido com o valor contábil de Vendas fiscal, os dois precisam estar com os valores iguais!
 
@@ -252,8 +252,16 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 > ![image](https://github.com/user-attachments/assets/756a178f-052c-474f-addf-d34caf7cde1b)
 
 
+#### 1.5 - 6° Conferências DARE (ANÁLISES - VENDA CONTÁBIL👈):
 
+No tópico **VENDA CONTÁBIL** são realizadas as análises do Livro DARE para verificar os valores recolhidos das guias:
 
+> ![image](https://github.com/user-attachments/assets/c6ba6dd8-5a03-41d7-9d53-81cfd76f90a7)
+
+☑️**LIVRO DARE**
+>     GARES e GNRE pagas 
+>     imprimir relatório da Conta Fiscal (Posto Fiscal - Sefaz) para conferir e confirmar pagamentos
+>     conferir dados da observação do livro: valor, vencimento, código e artigo.
 
 
 
