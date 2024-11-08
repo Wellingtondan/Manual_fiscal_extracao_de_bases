@@ -233,20 +233,24 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 > ![image](https://github.com/user-attachments/assets/6ddd3b26-6615-4a2c-ac82-f0510882e875)
 
 ☑️**VENDAS FISCAL**
->![image](https://github.com/user-attachments/assets/ff6f2eac-d86e-435e-8da8-6226dfd7af45)
+> ![image](https://github.com/user-attachments/assets/ff6f2eac-d86e-435e-8da8-6226dfd7af45)
+
+☑️**ENTRADA RESUMO**
+> ![image](https://github.com/user-attachments/assets/922668b1-72ab-4936-a678-f274c5081d86)
+
+☑️**SAÍDA RESUMO**
+> ![image](https://github.com/user-attachments/assets/1a7c201f-465e-4389-ac67-fc3b25ffde58)
 
 
 
-
-> ![image](https://github.com/user-attachments/assets/756a178f-052c-474f-addf-d34caf7cde1b)
-
-As bases de SAÍDAS e ENTRADAS fazem comparativo com a BASE UF, onde trás as operações realizadas internamente e interestaduais, trazendo as seguintes partes: 
+> [!IMPORTANT]
+> As bases de SAÍDAS e ENTRADAS fazem comparativo com a BASE UF, onde trás as operações realizadas internamente e interestaduais, trazendo as seguintes partes: 
 
 - ➡️SAÍDA RESUMO são observados os campos VALOR CONTÁBIL, BASE DE CÁLCULO, IMPOSTO DEBITADO, ISENTO/N.TRIBUTADO E OUTROS.
 
 - ➡️ENTRADA RESUMO são observados os campos VALOR CONTÁBIL, BASE ICMS, VALOR ICMS, ISENTO E OUTROS.
 
-> ![image](https://github.com/user-attachments/assets/97683ca8-40a5-490a-b650-3bb86e940d63)
+> ![image](https://github.com/user-attachments/assets/756a178f-052c-474f-addf-d34caf7cde1b)
 
 
 
