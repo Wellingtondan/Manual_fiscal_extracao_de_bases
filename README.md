@@ -293,6 +293,15 @@ No tópico **VENDA CONTÁBIL** são realizadas as análises do Livro DARE para v
 > ![image](https://github.com/user-attachments/assets/4a7919bc-58e0-49f0-be0f-89b2fa07ba2c)
 > ![image](https://github.com/user-attachments/assets/9b4bc7dc-7c40-4512-9f07-d5c3490c2056)
 
+#### 1.6 - 7° Conferências ICMS (CFOP X CST 👈):
+
+A conferência pode ser realizada de duas formas para identificar se o CST esta em conformidade com o CFOP:
+
+1️⃣ Pela própria ferramenta que para cada linha que contém CFOP, são informadas as CST utilizadas para a operação e quais as suas apropriações, por exemplo:
+- CST 020 deve estar aplicada uma parte como tributada e outra como Isento para o CFOP 1102 
+
+
+
 
 
 ```Sistema Consinco > Comercial > Gerencial```
