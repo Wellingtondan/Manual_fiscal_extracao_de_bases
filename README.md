@@ -278,7 +278,9 @@ No tópico **VENDA CONTÁBIL** são realizadas as análises do Livro DARE para v
 >   -       4.Movimento de títulos
 >   -       5.Aplicar filtros > empresa > data > selecionar obrigação > espécie GAREST e GNRE > operações (lupa) - incluir títulos 16 > imprimir > salvar em pdf > imprimir.
 
-![image](https://github.com/user-attachments/assets/b5819502-d6f5-49e9-838a-02f266c9c5a0)
+> ![image](https://github.com/user-attachments/assets/b5819502-d6f5-49e9-838a-02f266c9c5a0)
+> ![image](https://github.com/user-attachments/assets/a83ec64f-c6f9-47c0-9028-11a412fa47aa)
+
 
 - 📁Baixar **RELATÓRIO UF** verificar se o *ICMS Retido* da entrada é a soma do *movimento de títulos de obrigações*:
 
@@ -289,6 +291,9 @@ No tópico **VENDA CONTÁBIL** são realizadas as análises do Livro DARE para v
 >   -       3.Operações e prestações por UF-ICMS/IPI > mês anterior > desflegar empresa > demonstra ICMS ST Distrib. > Impressora
 
 > ![image](https://github.com/user-attachments/assets/4a7919bc-58e0-49f0-be0f-89b2fa07ba2c)
+> ![image](https://github.com/user-attachments/assets/9b4bc7dc-7c40-4512-9f07-d5c3490c2056)
+
+
 
 ```Sistema Consinco > Comercial > Gerencial```
 
