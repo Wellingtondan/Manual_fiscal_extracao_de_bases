@@ -376,8 +376,6 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 
 ☑️**PERDAS** 
 
-### 1.5 - 6° Relatório de perdas
-
 > **Relatórios**
 
 >   -       1.Estorno crédito ICMS
@@ -385,8 +383,11 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 >   -       3.Se houver carne “exceto as escolhidas” (selecionar as tributações correspondentes a carne) >
 >   -       4.Impressora > salvar em pdf na pasta de fechamento.*
 
-> ![image](https://github.com/user-attachments/assets/6613a964-051a-4de6-9773-e745355b41d0)![image](https://github.com/user-attachments/assets/a0bf2e72-876b-4b59-bda2-a19e7a029e58)
+> ![image](https://github.com/user-attachments/assets/6613a964-051a-4de6-9773-e745355b41d0) ![image](https://github.com/user-attachments/assets/a0bf2e72-876b-4b59-bda2-a19e7a029e58)
 
+É referente a extravios de notas, mercadorias avariadas, quebra, entre outros classificados como PERDA, dessa forma, são lançados para estorno de cédito do ICMS.
+
+> ![image](https://github.com/user-attachments/assets/e3485a8d-05e2-498e-8bcc-7649a2049608) ![image](https://github.com/user-attachments/assets/1a78b198-f162-44c0-b547-9a8584d59b6d)
 
 ☑️**CESTA BÁSICA** 
 
