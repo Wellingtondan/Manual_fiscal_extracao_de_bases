@@ -116,7 +116,7 @@ Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência p
 > ![image](https://github.com/user-attachments/assets/e3d5f775-371d-40a5-8b3d-2b3e52648826)
 ----------------------------------------------------------------------------
 
-#### 1.2 - 3° Para extrair as bases na Consinco:
+#### 1.3 - 3° Para extrair as bases na Consinco:
 
 > **Sistema**
 
@@ -160,7 +160,7 @@ Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência p
 
 > ![image](https://github.com/user-attachments/assets/0a1c21d1-515e-4136-9c61-2a22098c419d) ![image](https://github.com/user-attachments/assets/d83412d7-5587-4936-9a1d-9e6c10e39850)
 
-#### 1.3 - 4° Importar no sistema Etccom:
+#### 1.4 - 4° Importar no sistema Etccom:
 
 Nessa etapa são realizadas as importações das bases em fonte de dados: 
 
@@ -169,7 +169,7 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 > ![image](https://github.com/user-attachments/assets/abe0dad9-18cb-4f98-8cb3-2ddd5deaef5d)
 ----------------------------------------------------------------------------
 
-#### 1.4 - 5° Importações dos relatórios no sistema (ENTRADAS / SAÍDAS 👈):
+#### 1.5 - 5° Importações dos relatórios no sistema (ENTRADAS / SAÍDAS 👈):
 
 > **Sistema**
 
@@ -226,7 +226,7 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 > [!NOTE]
 > No ***"Vendas Gerencial"*** os CGOs vinculados para análise são de particularidade de cada cliente, nesse exemplo utilizei como base do cliente ARROZ ESTRELA, os CGOs utilizados para conferência foram o 810, 811, 814, 830 e 840. Basta clicar na seta⬅️ para que puxe a relação dos CGOs, e ao clicar no botão verde serão extraídas as informações para a tela inicial, basta clicar na impressora para gerar o relatório.
 
-##### 1.4.1 - Conferência (ANÁLISES - ENTRADAS / SAÍDAS 👈):
+##### 1.5.1 - Conferência (ANÁLISES - ENTRADAS / SAÍDAS 👈):
 
 > [!IMPORTANT]
 > Apenas para conhecimento, os impostos são agrupados por CFOP pela base de saídas.
@@ -256,7 +256,7 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 > ![image](https://github.com/user-attachments/assets/756a178f-052c-474f-addf-d34caf7cde1b)
 ----------------------------------------------------------------------------
 
-#### 1.5 - 6° Conferências DARE (ANÁLISES - VENDA CONTÁBIL👈):
+#### 1.6 - 6° Conferências DARE (ANÁLISES - VENDA CONTÁBIL👈):
 
 No tópico **VENDA CONTÁBIL** são realizadas as análises do Livro DARE para verificar os valores recolhidos das guias:
 
@@ -298,7 +298,7 @@ No tópico **VENDA CONTÁBIL** são realizadas as análises do Livro DARE para v
 > ![image](https://github.com/user-attachments/assets/9b4bc7dc-7c40-4512-9f07-d5c3490c2056)
 ----------------------------------------------------------------------------
 
-#### 1.6 - 7° Conferências ICMS (CFOP X CST 👈):
+#### 1.7 - 7° Conferências ICMS (CFOP X CST 👈):
 
 A conferência pode ser realizada de duas formas para identificar se o CST esta em conformidade com o CFOP:
 
@@ -314,27 +314,38 @@ A conferência pode ser realizada de duas formas para identificar se o CST esta 
 - É possível utilizar os filtros das abas para conferir se a CST, CFOP e valores estão condizentes entre as informações.
 
 > ![image](https://github.com/user-attachments/assets/3296dea2-fe18-4008-9a57-9665a632fe34)
+----------------------------------------------------------------------------
 
-
-
-
-
+#### 1.7 - 7° Conferências ICMS (REGISTRO APURAÇÃO 👈):
 
 ```Sistema Consinco > Comercial > Gerencial```
 
 > ![image](https://github.com/user-attachments/assets/628d2948-2207-483d-9100-eafc0895f35b)
 
-
-
-
-
->  - e) **Produtor Rural > Gerencial > Análise ABC de entradas > mês passado > detalhe 1:**
+> **Produtor Rural > Gerencial > Análise ABC de entradas > mês passado > detalhe 1:**
 >    -      1.Cidade > detalhe 2:
 >    -      2.UF > filtro por CGO de produtor > abrir opções de CGO >
 >    -      3.Somente os CGOs escolhidos > escolher CGOs > manter Crtl para selecionar CGOs >
 >    -      4.Clicar em retornar   > confirmar > impressora > salvar relatório em pdf.*
 
 > ![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c) ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
+
+
+
+> ![image](https://github.com/user-attachments/assets/9bee0436-991d-408b-8d86-b74f8972caaa)
+
+relatório
+>![image](https://github.com/user-attachments/assets/4fa1d08e-d935-4c85-b150-b4343c6ff4d4)
+
+
+
+
+
+
+
+
+
+
 
 
 
