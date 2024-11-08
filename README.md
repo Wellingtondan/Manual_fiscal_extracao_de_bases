@@ -297,8 +297,17 @@ No tópico **VENDA CONTÁBIL** são realizadas as análises do Livro DARE para v
 
 A conferência pode ser realizada de duas formas para identificar se o CST esta em conformidade com o CFOP:
 
-1️⃣ Pela própria ferramenta que para cada linha que contém CFOP, são informadas as CST utilizadas para a operação e quais as suas apropriações, por exemplo:
-- CST 020 deve estar aplicada uma parte como tributada e outra como Isento para o CFOP 1102 
+1️⃣ Pela própria ferramenta apresenta-se em cada linha as CFOP, são informadas as CST utilizadas para a operação e quais as suas apropriações, por exemplo:
+- CST 020, deve estar aplicada uma parte como tributada e outra como Isento para o CFOP 1102;
+- CST 000, deve estar aplicada 100% como tributado.
+
+> ![image](https://github.com/user-attachments/assets/dcd69f26-edb2-4339-b802-5ac838232851)
+
+2️⃣ Outra forma é realizar a conferência através da fonte de dados "Documentos Fiscais":
+- É possível utilizar os filtros das abas para conferir se a CST, CFOP e valores estão condizentes entre as informações.
+
+> ![image](https://github.com/user-attachments/assets/3296dea2-fe18-4008-9a57-9665a632fe34)
+
 
 
 
