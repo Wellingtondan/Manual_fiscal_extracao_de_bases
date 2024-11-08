@@ -90,6 +90,7 @@ Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência p
 > ![image](https://github.com/user-attachments/assets/7d994010-6cb6-43d0-97fa-d9fdc785f420) ![image](https://github.com/user-attachments/assets/7eb41cce-4233-4a9e-a923-79ae18a4fd3c) ![image](https://github.com/user-attachments/assets/61eaedd8-cbb0-43a3-8827-031908049558)
 
 **OBSERVAÇÃO:** Antes de iniciar qualquer fechamento, verifique se as inconsistências precisam ser liberadas e solucionadas.
+
 ----------------------------------------------------------------------------
 
 #### 1.2 - 2º inserir no sistema Etccom:
