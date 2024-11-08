@@ -4,7 +4,7 @@ Nesse repositório contém algumas orientações e passo a passo para extração
 
 ### 1. Seguindo o passa a passo
    
-#### 1.1 - 1º Passo 
+#### 1.1 - 1º Passo (PRINTS INCONSISTÊNCIAS)
 
 Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência para que insira nas análises **"Painel Fiscal"**.
 
@@ -206,15 +206,15 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 
 > ![image](https://github.com/user-attachments/assets/9cd995e6-ebdd-4ba7-841e-26117b36a43d) ![image](https://github.com/user-attachments/assets/eeba10a6-e77c-45a4-a9e0-2eef1191f8e8)
 
-```Sistema Consinco > Comercial > Gerencial```
-
-> ![image](https://github.com/user-attachments/assets/628d2948-2207-483d-9100-eafc0895f35b)
-
 >  - d) **Vendas Gerencial**
 >    -       1.Gerencial > Análise ABC venda distribuição
 >    -       2.Mês passado
 >    -       3.Detalhe 1: CGO
 >    -       4.Detalhe 2: Total > confirmar > impressora > salvar relatório em pdf.
+
+```Sistema Consinco > Comercial > Gerencial```
+
+> ![image](https://github.com/user-attachments/assets/628d2948-2207-483d-9100-eafc0895f35b)
 
 > ![image](https://github.com/user-attachments/assets/ac4bbf8c-063b-40d1-a80d-80b3196542f3) ![image](https://github.com/user-attachments/assets/d9bf24b1-1b4f-4698-b1ae-cc46f4b7a926) ![image](https://github.com/user-attachments/assets/3820a41d-b98b-4aa0-b139-1debae1f886d)
 
@@ -241,8 +241,6 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 ☑️**SAÍDA RESUMO**
 > ![image](https://github.com/user-attachments/assets/1a7c201f-465e-4389-ac67-fc3b25ffde58)
 
-
-
 > [!IMPORTANT]
 > As bases de SAÍDAS e ENTRADAS fazem comparativo com a BASE UF, onde trás as operações realizadas internamente e interestaduais, trazendo as seguintes partes: 
 
@@ -251,6 +249,11 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 - ➡️ENTRADA RESUMO são observados os campos VALOR CONTÁBIL, BASE ICMS, VALOR ICMS, ISENTO E OUTROS.
 
 > ![image](https://github.com/user-attachments/assets/756a178f-052c-474f-addf-d34caf7cde1b)
+
+
+
+
+
 
 
 
