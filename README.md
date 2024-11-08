@@ -316,7 +316,7 @@ A conferência pode ser realizada de duas formas para identificar se o CST esta 
 > ![image](https://github.com/user-attachments/assets/3296dea2-fe18-4008-9a57-9665a632fe34)
 ----------------------------------------------------------------------------
 
-#### 1.7 - 7° Conferências ICMS (REGISTRO APURAÇÃO 👈):
+#### 1.8 - 8° Conferências ICMS (REGISTRO APURAÇÃO / PRODUTOR RURAL 👈):
 
 ```Sistema Consinco > Comercial > Gerencial```
 
