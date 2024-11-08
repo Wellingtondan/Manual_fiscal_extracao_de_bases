@@ -6,7 +6,7 @@ Nesse repositório contém algumas orientações e passo a passo para extração
    
 #### 1.1 - 1º Passo 
 
-Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência para que insira nas análises ***"Painel Fiscal"**.
+Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência para que insira nas análises **"Painel Fiscal"**.
 
 ```Acessarmos o sistema da Consinco para analisar os painéis, se existem inconsistências:```
 
@@ -89,6 +89,8 @@ Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência p
 
 > ![image](https://github.com/user-attachments/assets/7d994010-6cb6-43d0-97fa-d9fdc785f420) ![image](https://github.com/user-attachments/assets/7eb41cce-4233-4a9e-a923-79ae18a4fd3c) ![image](https://github.com/user-attachments/assets/61eaedd8-cbb0-43a3-8827-031908049558)
 
+**OBSERVAÇÃO:** Antes de iniciar qualquer fechamento, verifique se as inconsistências precisam ser liberadas e solucionadas.
+
 #### 1.2 - 2º inserir no sistema Etccom:
 
 > **Fiscal**
@@ -107,7 +109,7 @@ Aqui apresenta-se como coletar os **prints** de cada painel de inconsistência p
 
 > ![image](https://github.com/user-attachments/assets/698b762d-bc30-4e4e-a76c-703e94ba9e25)
 
-Selecione o tipo da inconsistência que deseja inserir o print do painel no início do fechamento:
+**OBSERVAÇÃO:** Selecione o tipo da inconsistência que deseja inserir o print do painel no início do fechamento:
 
 > ![image](https://github.com/user-attachments/assets/e3d5f775-371d-40a5-8b3d-2b3e52648826)
 
@@ -217,7 +219,7 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 > ![image](https://github.com/user-attachments/assets/ac4bbf8c-063b-40d1-a80d-80b3196542f3) ![image](https://github.com/user-attachments/assets/d9bf24b1-1b4f-4698-b1ae-cc46f4b7a926) ![image](https://github.com/user-attachments/assets/3820a41d-b98b-4aa0-b139-1debae1f886d)
 
 > [!NOTE]
-> No ***"Vendas Gerencial"*** os CGOs vinculados para análise são de particularidade de cada cliente, nesse exemplo utilizei como base o do cliente ARROZ ESTRELA, os CGOs utilizados para conferência foram o 810, 811, 814, 830 e 840. Basta clicar na seta⬅️ para que puxe a relação dos CGOs, e ao clicar no botão verde serão extraídas as informações para a tela inicial, basta clicar na impressora para gerar o relatório.
+> No ***"Vendas Gerencial"*** os CGOs vinculados para análise são de particularidade de cada cliente, nesse exemplo utilizei como base do cliente ARROZ ESTRELA, os CGOs utilizados para conferência foram o 810, 811, 814, 830 e 840. Basta clicar na seta⬅️ para que puxe a relação dos CGOs, e ao clicar no botão verde serão extraídas as informações para a tela inicial, basta clicar na impressora para gerar o relatório.
 
 ##### 1.4.1 - Conferência (ENTRADAS / SAÍDAS 👈):
 
@@ -227,6 +229,15 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 
 > O relatório de análise do ***"Vendas Gerencial"*** faz o comparativo entre o Valor Total líquido com o valor contábil de Vendas fiscal, os dois precisam estar com os valores iguais!
 
+**VENDAS GERENCIAL**
+> ![image](https://github.com/user-attachments/assets/6ddd3b26-6615-4a2c-ac82-f0510882e875)
+
+**VENDAS FISCAL**
+>![image](https://github.com/user-attachments/assets/ff6f2eac-d86e-435e-8da8-6226dfd7af45)
+
+
+
+
 > ![image](https://github.com/user-attachments/assets/756a178f-052c-474f-addf-d34caf7cde1b)
 
 As bases de SAÍDAS e ENTRADAS fazem comparativo com a BASE UF, onde trás as operações realizadas internamente e interestaduais, trazendo as seguintes partes: 
@@ -234,9 +245,6 @@ As bases de SAÍDAS e ENTRADAS fazem comparativo com a BASE UF, onde trás as op
 - ➡️SAÍDA RESUMO são observados os campos VALOR CONTÁBIL, BASE DE CÁLCULO, IMPOSTO DEBITADO, ISENTO/N.TRIBUTADO E OUTROS.
 
 - ➡️ENTRADA RESUMO são observados os campos VALOR CONTÁBIL, BASE ICMS, VALOR ICMS, ISENTO E OUTROS.
-
-➡️
-📑   Com a 
 
 > ![image](https://github.com/user-attachments/assets/97683ca8-40a5-490a-b650-3bb86e940d63)
 
