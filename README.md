@@ -323,26 +323,35 @@ A conferência pode ser realizada de duas formas para identificar se o CST esta 
 > ![image](https://github.com/user-attachments/assets/628d2948-2207-483d-9100-eafc0895f35b)
 
 > **Produtor Rural > Gerencial
->    -      1.Análise ABC de entradas > mês passado > detalhe 1:**
->    -      2.Cidade > detalhe 2:
->    -      3.UF > filtro por CGO de produtor > abrir opções de CGO >
->    -      4.Somente os CGOs escolhidos > escolher CGOs > manter Crtl para selecionar CGOs >
->    -      5.Clicar em retornar   > confirmar > impressora > salvar relatório em pdf.*
+>    -      1.Análise ABC de entradas > mês passado >
+>    -      2.Detalhe 1: Cidade
+>    -      3.Detalhe 2: UF
+>    -      4.Filtro > Abrir opções de CGO >
+>    -      5.Somente os CGOs escolhidos > Escolher CGOs > manter Crtl para selecionar CGOs ou pesquisar "Rural" >
+>    -      6.Clicar em retornar   > confirmar > impressora > salvar relatório em pdf.*
 
-> ![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c)
+> ![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c) ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
 
+- 📁Baixar relatório **PRODUTOR RURAL** que no sistema TOTVS é o **ANÁLISE ABC DE ENTRADAS** para confrontar com o *Registro de Apuração do Sistema Etccom*, abaixo os prints:
 
+☑️**ANÁLISE ABC DE ENTRADAS - TOTVS (PRODUTOR RURAL)** 
 
-> ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
+> ![image](https://github.com/user-attachments/assets/4fa1d08e-d935-4c85-b150-b4343c6ff4d4)
 
-
+☑️**REGISTRO APURAÇÃO - SISTEMA ETCCOM (PRODUTOR RURAL)** 
 
 > ![image](https://github.com/user-attachments/assets/9bee0436-991d-408b-8d86-b74f8972caaa)
 
-relatório
->![image](https://github.com/user-attachments/assets/4fa1d08e-d935-4c85-b150-b4343c6ff4d4)
 
 
+#### 1.9 - 9° Conferências Apuração ICMS 
+
+Para essa etapa são calculados os valores de débito e crédito de ICMS e efetuados os lançamentos para as seguintes operações:
+
+- ENERGIA, PERDAS, CESTA BÁSICA, REGIME CARNE (SP), PRODUTOR RURAL, IMOBILIZADO DEVOLVIDO E SIMPLES NACIONAL
+
+
+(REGISTRO APURAÇÃO / PRODUTOR RURAL 👈):
 
 
 
