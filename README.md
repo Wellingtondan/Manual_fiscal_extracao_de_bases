@@ -348,7 +348,15 @@ A conferência pode ser realizada de duas formas para identificar se o CST esta 
 
 Para essa etapa são calculados os valores de débito e crédito de ICMS e efetuados os lançamentos para as seguintes operações:
 
-- ENERGIA, PERDAS, CESTA BÁSICA, REGIME CARNE (SP), PRODUTOR RURAL, IMOBILIZADO DEVOLVIDO E SIMPLES NACIONAL
+- ENERGIA, PERDAS, CESTA BÁSICA, REGIME CARNE (SP), PRODUTOR RURAL, IMOBILIZADO DEVOLVIDO E SIMPLES NACIONAL.
+
+☑️**ENERGIA ELÉTRICA** 
+
+- [PLANILHA_BASE_PAUTAS](https://github.com/raphaeldertinatti/atualizacao_pautas_c5/blob/main/Planilhas/Planilha_Base_Pautas.xlsx)
+
+![image](https://github.com/user-attachments/assets/36a1251a-94e1-43ce-827f-6b7fb438fd9c)
+
+- [PLANILHA](https://github.com/Wellingtondan/Manual_fiscal_extracao_de_bases/blob/main/Energia%20Laudo%20-%20Lj%2002%2C%2004%2C%2006%2C%2007%20e%2008.xlsx)
 
 
 (REGISTRO APURAÇÃO / PRODUTOR RURAL 👈):
