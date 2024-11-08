@@ -322,7 +322,7 @@ A conferência pode ser realizada de duas formas para identificar se o CST esta 
 
 > ![image](https://github.com/user-attachments/assets/628d2948-2207-483d-9100-eafc0895f35b)
 
-> **Produtor Rural > Gerencial
+> **Produtor Rural > Gerencial**
 >    -      1.Análise ABC de entradas > mês passado >
 >    -      2.Detalhe 1: Cidade
 >    -      3.Detalhe 2: UF
@@ -341,7 +341,7 @@ A conferência pode ser realizada de duas formas para identificar se o CST esta 
 ☑️**REGISTRO APURAÇÃO - SISTEMA ETCCOM (PRODUTOR RURAL)** 
 
 > ![image](https://github.com/user-attachments/assets/9bee0436-991d-408b-8d86-b74f8972caaa)
-
+----------------------------------------------------------------------------
 
 
 #### 1.9 - 9° Conferências Apuração ICMS 
@@ -352,12 +352,61 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 
 ☑️**ENERGIA ELÉTRICA** 
 
-- [PLANILHA_BASE_PAUTAS](https://github.com/raphaeldertinatti/atualizacao_pautas_c5/blob/main/Planilhas/Planilha_Base_Pautas.xlsx)
+- [PLANILHA ENERGIA LAUDO](https://github.com/Wellingtondan/Manual_fiscal_extracao_de_bases/blob/main/Energia%20Laudo%20-%20Lj%2002%2C%2004%2C%2006%2C%2007%20e%2008.xlsx)
 
-![image](https://github.com/user-attachments/assets/36a1251a-94e1-43ce-827f-6b7fb438fd9c)
+- 📂Imagem representativa da planilha ENERGIA LAUDO + Fatura ELEKTRO:
 
-- [PLANILHA](https://github.com/Wellingtondan/Manual_fiscal_extracao_de_bases/blob/main/Energia%20Laudo%20-%20Lj%2002%2C%2004%2C%2006%2C%2007%20e%2008.xlsx)
+> ![image](https://github.com/user-attachments/assets/00eec3b9-2d74-45e2-8d58-ca9e39fe40a8)
+> ![image](https://github.com/user-attachments/assets/b43fea57-438c-40a5-90e3-e93947c8cf16)
 
+- 📂 LIVRO ENRGIA: é conferido se o VALOR CONTÁBIL do livro é o mesmo VALOR DA CONTA (R$) ELEKTRO:
+
+> ![image](https://github.com/user-attachments/assets/cd531437-24f1-4510-808d-130dccf8888c)
+
+- 📂Lançamento da conta ENERGIA: Após a conferência da fatura + Planilha Energia Laudo e Livro é realizado os lançamentos no sistema ETCCOM:
+
+> **APURAÇÃO ICMS**
+> >    -      1.Calcular Lançamentos
+> >    -      2.ENERGIA
+> >    -      3.ACOMPANHAR NA PRÓXIMA IMAGEM
+
+> ![image](https://github.com/user-attachments/assets/70483a20-fb00-4632-92d0-fe895b07a997)
+
+- Os lançamentos são: COMPANHIA ELÉTRICA, NOTA FISCAL, % APROVEITAMENTO DE CRÉDITO, % ALÍQUOTA ICMS , VALOR CONTÁBIL E INCLUIR LANÇPAMENTOS 
+
+☑️**PERDAS** 
+
+### 1.5 - 6° Relatório de perdas
+
+> **Relatórios**
+
+>   -       1.Estorno crédito ICMS
+>   -       2.Cálculo de estorno ICMS > mês anterior >
+>   -       3.Se houver carne “exceto as escolhidas” (selecionar as tributações correspondentes a carne) >
+>   -       4.Impressora > salvar em pdf na pasta de fechamento.*
+
+> ![image](https://github.com/user-attachments/assets/6613a964-051a-4de6-9773-e745355b41d0)![image](https://github.com/user-attachments/assets/a0bf2e72-876b-4b59-bda2-a19e7a029e58)
+
+
+☑️**CESTA BÁSICA** 
+
+☑️**REGIME CARNE (SP)** 
+
+☑️**PRODUTOR RURAL** 
+
+☑️**IMOBILIZADO DEVOLVIDO** 
+
+☑️**SIMPLES NACIONAL** 
+
+
+
+
+
+
+
+> ![image](https://github.com/user-attachments/assets/06ba7885-aca6-4bb5-95d8-cec6792cadca)
+
+> ![image](https://github.com/user-attachments/assets/36a1251a-94e1-43ce-827f-6b7fb438fd9c)
 
 (REGISTRO APURAÇÃO / PRODUTOR RURAL 👈):
 
@@ -398,25 +447,9 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 
 
 
->  - a) **Produtor Rural > Gerencial > Análise ABC de entradas > mês passado > detalhe 1:**
->    -      1.Cidade > detalhe 2:
->    -      2.UF > filtro por CGO de produtor > abrir opções de CGO >
->    -      3.Somente os CGOs escolhidos > escolher CGOs > manter Crtl para selecionar CGOs >
->    -      4.Clicar em retornar   > confirmar > impressora > salvar relatório em pdf.*
 
->![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c) ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
 
-### 1.5 - 6° Relatório de perdas
 
-> **Relatórios**
-
->   -       1.Estorno crédito ICMS
->   -       2.Cálculo de estorno ICMS > mês anterior >
->   -       3.Se houver carne “exceto as escolhidas” (selecionar as tributações correspondentes a carne) >
->   -       4.Impressora > salvar em pdf na pasta de fechamento.*
-
-> ![image](https://github.com/user-attachments/assets/6613a964-051a-4de6-9773-e745355b41d0)![image](https://github.com/user-attachments/assets/a0bf2e72-876b-4b59-bda2-a19e7a029e58)
-> ![image](https://github.com/user-attachments/assets/501812fa-0c20-4578-b205-3b31f2919585)
 
 ### 1.6 - 7° Simples Nacional
 
