@@ -322,13 +322,18 @@ A conferência pode ser realizada de duas formas para identificar se o CST esta 
 
 > ![image](https://github.com/user-attachments/assets/628d2948-2207-483d-9100-eafc0895f35b)
 
-> **Produtor Rural > Gerencial > Análise ABC de entradas > mês passado > detalhe 1:**
->    -      1.Cidade > detalhe 2:
->    -      2.UF > filtro por CGO de produtor > abrir opções de CGO >
->    -      3.Somente os CGOs escolhidos > escolher CGOs > manter Crtl para selecionar CGOs >
->    -      4.Clicar em retornar   > confirmar > impressora > salvar relatório em pdf.*
+> **Produtor Rural > Gerencial
+>    -      1.Análise ABC de entradas > mês passado > detalhe 1:**
+>    -      2.Cidade > detalhe 2:
+>    -      3.UF > filtro por CGO de produtor > abrir opções de CGO >
+>    -      4.Somente os CGOs escolhidos > escolher CGOs > manter Crtl para selecionar CGOs >
+>    -      5.Clicar em retornar   > confirmar > impressora > salvar relatório em pdf.*
 
-> ![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c) ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
+> ![image](https://github.com/user-attachments/assets/b3b21784-6e82-4dca-9986-7f243f1a787c)
+
+
+
+> ![image](https://github.com/user-attachments/assets/fa39678d-0532-4e67-9f0c-9ab824fefb28)
 
 
 
