@@ -259,9 +259,41 @@ No tópico **VENDA CONTÁBIL** são realizadas as análises do Livro DARE para v
 > ![image](https://github.com/user-attachments/assets/c6ba6dd8-5a03-41d7-9d53-81cfd76f90a7)
 
 ☑️**LIVRO DARE**
->     GARES e GNRE pagas 
->     imprimir relatório da Conta Fiscal (Posto Fiscal - Sefaz) para conferir e confirmar pagamentos
->     conferir dados da observação do livro: valor, vencimento, código e artigo.
+
+- 📁Baixar Livro para verificar as observações: valor, vencimento, código e artigo. Salve na pasta DARE como o nome **LIVRO DARE**.
+>![image](https://github.com/user-attachments/assets/2bccdc25-32ab-43cf-93db-e6e7f44a21f1)
+
+- 📁Acessar o Posto Fiscal - Sefaz para conferência dos valores e confirmação de pagamentos de guias, salvar como **CONTA FISCAL** na pasta DARE.
+>![image](https://github.com/user-attachments/assets/31b9ac71-2c70-41cb-a86c-702af0a28cbe)
+
+- 📁Baixar relatório de **MOVIMENTO DE TÍTULOS DE OBRIGAÇÕES** para verificar se todas as obrigações de GNRE foram inclusas:
+
+**Movimento de títulos de obrigações** 
+
+> **Sistema**
+
+>   -       1.Financeiro
+>   -       2.Operador
+>   -       3.Relatório
+>   -       4.Movimento de títulos
+>   -       5.Aplicar filtros > empresa > data > selecionar obrigação > espécie GAREST e GNRE > operações (lupa) - incluir títulos 16 > imprimir > salvar em pdf > imprimir.
+
+![image](https://github.com/user-attachments/assets/b5819502-d6f5-49e9-838a-02f266c9c5a0)
+
+- 📁Baixar **RELATÓRIO UF** verificar se o *ICMS Retido* da entrada é a soma do *movimento de títulos de obrigações*:
+
+> **Relatório UF:**
+   
+>   -       1.Relatórios
+>   -       2.Conferência
+>   -       3.Operações e prestações por UF-ICMS/IPI > mês anterior > desflegar empresa > demonstra ICMS ST Distrib. > Impressora
+
+> ![image](https://github.com/user-attachments/assets/4a7919bc-58e0-49f0-be0f-89b2fa07ba2c)
+
+```Sistema Consinco > Comercial > Gerencial```
+
+> ![image](https://github.com/user-attachments/assets/628d2948-2207-483d-9100-eafc0895f35b)
+
 
 
 
@@ -301,29 +333,7 @@ No tópico **VENDA CONTÁBIL** são realizadas as análises do Livro DARE para v
 >     imprimir relatório da Conta Fiscal (Posto Fiscal - Sefaz) para conferir e confirmar pagamentos
 >     conferir dados da observação do livro: valor, vencimento, código e artigo.
 
-**Movimento de títulos de obrigações** 
 
-> **Sistema**
-
->   -       1.Financeiro
->   -       2.Operador
->   -       3.Relatório
->   -       4.Movimento de títulos
->   -       5.Aplicar filtros > empresa > data > selecionar obrigação > espécie GAREST e GNRE > operações (lupa) - incluir títulos 16 > imprimir > salvar em pdf > imprimir.
-
-![image](https://github.com/user-attachments/assets/b5819502-d6f5-49e9-838a-02f266c9c5a0)
-
-> **Relatório UF:**
-   
->   -       1.Relatórios
->   -       2.Conferência
->   -       3.Operações e prestações por UF-ICMS/IPI > mês anterior > desflegar empresa > demonstra ICMS ST Distrib. > Impressora
-
-> ![image](https://github.com/user-attachments/assets/4a7919bc-58e0-49f0-be0f-89b2fa07ba2c)
-
-```Sistema Consinco > Comercial > Gerencial```
-
-> ![image](https://github.com/user-attachments/assets/628d2948-2207-483d-9100-eafc0895f35b)
 
 >  - a) **Produtor Rural > Gerencial > Análise ABC de entradas > mês passado > detalhe 1:**
 >    -      1.Cidade > detalhe 2:
