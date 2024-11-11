@@ -503,8 +503,11 @@ O sistema esta parametrizado para puxar todos os CFOP relacionados as operaçõe
 >   -       6.Confirmar > salvar em pdf > imprimir > baixar em PDF as notas fiscais trazidas.
 > ![image](https://github.com/user-attachments/assets/7f35465e-bda1-4c46-a202-110442bbb15e) ![image](https://github.com/user-attachments/assets/48bf3d05-fc28-4481-a431-193b21ec8d40)
 
+Ao puxar o relatório é possível identificar se houveram movimentações de fornecedores do Simples Nacional com apropriação do crédito (direito) para inclusão de lançamento da "APURAÇÃO DO ICMS".
 
+Mas abaixo 
 
+![image](https://github.com/user-attachments/assets/9be7b719-87eb-44eb-ad06-cf1865baee17)
 
 
 
