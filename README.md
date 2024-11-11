@@ -514,6 +514,7 @@ Mas abaixo
 
 
 
+
 > ![image](https://github.com/user-attachments/assets/06ba7885-aca6-4bb5-95d8-cec6792cadca)
 
 > ![image](https://github.com/user-attachments/assets/36a1251a-94e1-43ce-827f-6b7fb438fd9c)
@@ -522,9 +523,21 @@ Mas abaixo
 
 
 
+#### 1.9 - 9° Conferências Aproveitamento de Crédito (COMBUSTíVEL) 
 
+Emitido o relatório de conferência do LIVRO COMBUSTÍVEL e analisadas as notas de Diesel e GLP, e seus aproveitamentos de crédito conforme embasamento legal:
 
+> ICMS MONOFASICO SOBRE COMBUSTIVEIS COBRADO ANTERIORMENTE CONFORME CONVENIO ICMS 199
+DE 2022APROVEITAMENTO CREDITO ICMS, QUANDO ADMITIDO, ART.272 DEC. 45490/00NF CONF.
+PORT CAT 127/15 - ART. 4, I E IIBC ICMS REDUZIDA ART. 8(o), ANEXO II, DEC 45490/00 RICMS/SP.
 
+Abaixo, a planilha do cálculo do Valor do ICMS sujeito a tributacao monofásica:
+
+[Credito de Combustivel.xlsx](https://github.com/user-attachments/files/17707838/Credito.de.Combustivel.xlsx)
+
+E na imagem abaixo um exemplo da NFE de GLP e o XML da Nf-e onde apresenta a alíquota a ser utilizada pelo fornecedor para aplicação do aproveitamento do crédito.
+
+> ![image](https://github.com/user-attachments/assets/b465d12f-c831-4cbf-bee4-8fba2474680f)
 
 
 
