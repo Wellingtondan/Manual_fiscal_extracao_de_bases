@@ -397,14 +397,21 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 
 ☑️**REGIME CARNE (SP)** 
 
+Para o cálculo dos lançamentos de crédito como Devolução de Carne (Entradas), Transferência de Carne e Devolução de Carne (Saídas), são observadas a forma de apropriação em suas saídas como débito e realizados os lançamentos de "estorno" como crédito.
+
+Abaixo há um exemplo como base na NF 2457 que teve a devolução de entrada de Pessoa Física - PF, nas saídas para não contribuinte é aplicada a Aliquota de 4,5% do Regime Especial de Carne, e como foi realizada a devolução o cliente irá se apropriar do crédito de 4,5% para que anule o débito tomado na saída da mercadoria.
+
+> ![image](https://github.com/user-attachments/assets/aa861124-5acb-4cb9-a19a-85ba837df995)
+> ![image](https://github.com/user-attachments/assets/8012475f-fec4-4630-a322-e19b08051333)
+
+
 
 
 > ![image](https://github.com/user-attachments/assets/27c29545-c65f-4cdc-be0b-440da9c4b087)
 
 
-![image](https://github.com/user-attachments/assets/8012475f-fec4-4630-a322-e19b08051333)
 
-![image](https://github.com/user-attachments/assets/aa861124-5acb-4cb9-a19a-85ba837df995)
+
 
 
 
