@@ -397,9 +397,36 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 
 ☑️**REGIME CARNE (SP)** 
 
-Para o cálculo dos lançamentos de crédito como Devolução de Carne (Entradas), Transferência de Carne e Devolução de Carne (Saídas), são observadas a forma de apropriação em suas saídas como débito e realizados os lançamentos de "estorno" como crédito.
+No Regime Especial de Carne em São Paulo, operações como devoluções de carne e transferências seguem regras específicas para garantir que o contribuinte possa recuperar o crédito tributário sobre o imposto incidente nas saídas. Vou detalhar o cálculo desses créditos com base no exemplo que você deu, de acordo com a NF 2457:
 
-Abaixo há um exemplo como base na NF 2457 que teve a devolução de entrada de Pessoa Física - PF, nas saídas para não contribuinte é aplicada a Aliquota de 4,5% do Regime Especial de Carne, e como foi realizada a devolução o cliente irá se apropriar do crédito de 4,5% para que anule o débito tomado na saída da mercadoria.
+- 1. **Devolução de Carne (Entrada):** Quando ocorre uma devolução de carne originada de um cliente (neste caso, uma Pessoa Física), o crédito apropriado precisa anular o débito anteriormente registrado na saída. No caso, a alíquota de 4,5% é aplicada sobre o valor devolvido para calcular o crédito.
+
+- 2. **Saída para Não Contribuinte:** Ao vender ou transferir carne para não contribuintes, como pessoas físicas, aplica-se a alíquota de 4,5%, conforme o Regime Especial de Carne. Esse percentual é considerado um débito no momento da saída da mercadoria.
+
+- 3. **Lançamento de Estorno como Crédito:** Para anular o débito gerado na saída, a devolução é registrada como um lançamento de estorno, creditando o valor de 4,5% sobre a entrada. Esse crédito compensa o imposto que foi devido no momento da saída, equilibrando a carga tributária para o contribuinte.
+
+### Exemplo com Base na NF 2457:
+
+Suponha que:
+
+- **Valor da Saída para o Cliente (Pessoa Física):** R$ 10.000,00
+- **Alíquota Aplicada na Saída:** 4,5%
+- **Valor do Débito na Saída:** 🔴 10.000,00 X 4,5% = R$ 450,00
+
+Quando ocorre a devolução:
+
+- Valor da Entrada (Devolução): R$ 10.000,00
+- Crédito (Estorno) Aplicado na Devolução: 10.000,00 \times 4,5\% = R$ 450,00
+  
+### Resumo Contábil:
+
+- **Saída para Pessoa Física:**
+   - Débito: R$ 450,00
+     
+- **Entrada como Devolução:**
+   - Crédito (Estorno): R$ 450,00
+   - 
+Dessa forma, o crédito anula o débito original, resultando em um impacto tributário nulo para o contribuinte na operação devolvida.
 
 > ![image](https://github.com/user-attachments/assets/aa861124-5acb-4cb9-a19a-85ba837df995)
 > ![image](https://github.com/user-attachments/assets/8012475f-fec4-4630-a322-e19b08051333)
