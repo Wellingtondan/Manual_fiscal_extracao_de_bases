@@ -391,7 +391,7 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 
 ☑️**CESTA BÁSICA** 
 
-É realizada a conferência das CST e alíquotas dos produtos lançados como **CESTA BÀSICA**, para identificar se estão na CST 00 e alíquota de 7%.
+É realizada a conferência das CST e alíquotas dos produtos lançados como **CESTA BÀSICA**, para identificar se estão na CST 00 e alíquota de 7%, ou CST 20 e alíquota de 12 ou 18 que resulte em 7%
 
 > ![image](https://github.com/user-attachments/assets/a92ddb22-7255-4b81-92bc-d555e23aa21e)
 
