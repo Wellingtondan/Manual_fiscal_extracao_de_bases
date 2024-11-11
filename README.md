@@ -397,7 +397,15 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 
 ☑️**REGIME CARNE (SP)** 
 
-![image](https://github.com/user-attachments/assets/27c29545-c65f-4cdc-be0b-440da9c4b087)
+
+
+> ![image](https://github.com/user-attachments/assets/27c29545-c65f-4cdc-be0b-440da9c4b087)
+
+
+![image](https://github.com/user-attachments/assets/8012475f-fec4-4630-a322-e19b08051333)
+
+![image](https://github.com/user-attachments/assets/aa861124-5acb-4cb9-a19a-85ba837df995)
+
 
 
 
