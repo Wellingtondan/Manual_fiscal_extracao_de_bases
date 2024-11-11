@@ -459,12 +459,21 @@ Segue o embasamento para o caso do leite, como exemplo:
 
 > ![image](https://github.com/user-attachments/assets/e48bac4f-cbe9-4695-8d49-7449b2d6da9c)
 
-
-
-
 ☑️**IMOBILIZADO DEVOLVIDO** 
 
+Para os lançamentos de "Devolução de Ativo Imobilizado", vale ressaltar que não se deve tomar crédito na entrada da mercadoria, porém, a Resposta de consulta abaixo orienta a escritutação do débito e escriturar o cédito do imposto para devolução da mercadoria:
+
+🗒️**ICMS – Crédito – Bem do ativo imobilizado**
+
+I. A devolução de mercadoria é operação que tem por objetivo anular todos os efeitos de uma operação anterior, devendo a Nota Fiscal relativa à devolução reproduzir todos os elementos constantes da Nota Fiscal anterior, emitida pelo fornecedor.
+
+II. Deverão ser escriturados o débito do ICMS destacado na Nota Fiscal de devolução do bem do ativo imobilizado para o fornecedor e, em contrapartida, o crédito relativo ao imposto destacado na Nota Fiscal original.
+
+"5. Sendo assim, a Consulente deverá **escriturar o débito do ICMS destacado na Nota Fiscal** de devolução do bem do ativo imobilizado para o fornecedor e, em contrapartida, **escriturar o crédito relativo ao imposto** destacado na Nota Fiscal original, mediante lançamento diretamente no Livro Registro de Apuração do ICMS, no quadro “Crédito do Imposto – Outros Créditos”, com a expressão: “Crédito relativo a bem do ativo imobilizado devolvido conforme NF nº...)”."
+
 [RESPOSTA DE CONSULTA ICMS – Crédito – Bem do ativo imobilizado](https://legislacao.fazenda.sp.gov.br/Paginas/RC16725_2017.aspx)
+
+> ![SITEMA](https://github.com/user-attachments/assets/4603aec7-e00e-4f95-bc25-cb4771444aa2)
 
 
 
