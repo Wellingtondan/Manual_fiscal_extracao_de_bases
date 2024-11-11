@@ -350,6 +350,8 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 
 - ENERGIA, PERDAS, CESTA BÁSICA, REGIME CARNE (SP), PRODUTOR RURAL, IMOBILIZADO DEVOLVIDO E SIMPLES NACIONAL.
 
+----------------------------------------------------------------------------
+
 ☑️**ENERGIA ELÉTRICA** 
 
 - [PLANILHA ENERGIA LAUDO](https://github.com/Wellingtondan/Manual_fiscal_extracao_de_bases/blob/main/Energia%20Laudo%20-%20Lj%2002%2C%2004%2C%2006%2C%2007%20e%2008.xlsx)
@@ -372,7 +374,9 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 
 > ![image](https://github.com/user-attachments/assets/70483a20-fb00-4632-92d0-fe895b07a997)
 
-- Os lançamentos são: COMPANHIA ELÉTRICA, NOTA FISCAL, % APROVEITAMENTO DE CRÉDITO, % ALÍQUOTA ICMS , VALOR CONTÁBIL E INCLUIR LANÇPAMENTOS 
+- Os lançamentos são: COMPANHIA ELÉTRICA, NOTA FISCAL, % APROVEITAMENTO DE CRÉDITO, % ALÍQUOTA ICMS , VALOR CONTÁBIL E INCLUIR LANÇPAMENTOS
+  
+----------------------------------------------------------------------------
 
 ☑️**PERDAS** 
 
@@ -388,12 +392,14 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 É referente a extravios de notas, mercadorias avariadas, quebra, entre outros classificados como PERDA, dessa forma, são lançados para estorno de cédito do ICMS.
 
 > ![image](https://github.com/user-attachments/assets/e3485a8d-05e2-498e-8bcc-7649a2049608) ![image](https://github.com/user-attachments/assets/1a78b198-f162-44c0-b547-9a8584d59b6d)
+----------------------------------------------------------------------------
 
 ☑️**CESTA BÁSICA** 
 
 É realizada a conferência das CST e alíquotas dos produtos lançados como **CESTA BÀSICA**, para identificar se estão na CST 00 e alíquota de 7%, ou CST 20 e alíquota de 12 ou 18 que resulte em 7%
 
 > ![image](https://github.com/user-attachments/assets/a92ddb22-7255-4b81-92bc-d555e23aa21e)
+----------------------------------------------------------------------------
 
 ☑️**REGIME CARNE (SP)** 
 
@@ -435,6 +441,8 @@ Dessa forma, o crédito anula o débito original, resultando em um impacto tribu
 
 [DOCUMENTAÇÃO - CALC CARNE](https://github.com/Wellingtondan/Doc_calc_carne.git)
 
+----------------------------------------------------------------------------
+
 ☑️**PRODUTOR RURAL** 
 
 Para os estornos com Produtor Rural deve-se observar se os produtos recebidos são enquadrados ao diferimento, caso o produto seja **diferido** em sua *entrada* e com *saída tributada*, deve-se aplicar um débito e um crédito do valor percentual para zerar a operação.
@@ -462,6 +470,7 @@ Segue o embasamento para o caso do leite, como exemplo:
 > **Artigo 43. (LEITE PASTEURIZADO)** - Saída interna de estabelecimento **varejista** de leite pasteurizado tipo especial, com 3,2% de gordura, de leite pasteurizado magro, reconstituído ou não, com até 2% de gordura, ou de leite pasteurizado tipo "A" ou "B", com destino a **consumidor final** (Convênio ICM-25/83, cláusulas primeira, na redação do Convênio ICMS-36/94, e segunda, Convênios ICM-10/84, cláusula primeira, ICM-19/84, cláusula primeira, ICMS-43/90, e ICMS-124/93, cláusula primeira, V, 6).
 
 > ![image](https://github.com/user-attachments/assets/e48bac4f-cbe9-4695-8d49-7449b2d6da9c)
+----------------------------------------------------------------------------
 
 ☑️**IMOBILIZADO DEVOLVIDO** 
 
@@ -479,9 +488,8 @@ II. Deverão ser escriturados o débito do ICMS destacado na Nota Fiscal de devo
 
 O sistema esta parametrizado para puxar todos os CFOP relacionados as operações de Despesa e Imobilizado.
 
-> ![SITEMA](https://github.com/user-attachments/assets/4603aec7-e00e-4f95-bc25-cb4771444aa2)
-
-
+> ![image](https://github.com/user-attachments/assets/4603aec7-e00e-4f95-bc25-cb4771444aa2)
+----------------------------------------------------------------------------
 
 ☑️**SIMPLES NACIONAL** 
 
@@ -494,6 +502,10 @@ O sistema esta parametrizado para puxar todos os CFOP relacionados as operaçõe
 >   -       5.Geração CR 20/CR 25 GIA SP – Simples Nacional > mês ano >
 >   -       6.Confirmar > salvar em pdf > imprimir > baixar em PDF as notas fiscais trazidas.
 > ![image](https://github.com/user-attachments/assets/7f35465e-bda1-4c46-a202-110442bbb15e) ![image](https://github.com/user-attachments/assets/48bf3d05-fc28-4481-a431-193b21ec8d40)
+
+
+
+
 
 
 
