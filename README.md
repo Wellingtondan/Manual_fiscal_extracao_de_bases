@@ -473,6 +473,8 @@ II. Deverão ser escriturados o débito do ICMS destacado na Nota Fiscal de devo
 
 [RESPOSTA DE CONSULTA ICMS – Crédito – Bem do ativo imobilizado](https://legislacao.fazenda.sp.gov.br/Paginas/RC16725_2017.aspx)
 
+O sistema esta parametrizado para puxar todos os CFOP relacionados as operações de Despesa e Imobilizado.
+
 > ![SITEMA](https://github.com/user-attachments/assets/4603aec7-e00e-4f95-bc25-cb4771444aa2)
 
 
