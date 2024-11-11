@@ -431,6 +431,10 @@ Dessa forma, o crédito anula o débito original, resultando em um impacto tribu
 > ![image](https://github.com/user-attachments/assets/aa861124-5acb-4cb9-a19a-85ba837df995)
 > ![image](https://github.com/user-attachments/assets/8012475f-fec4-4630-a322-e19b08051333)
 
+- Documento auxiliar sobre CALC CARNE
+
+[CALC CARNE](https://github.com/Wellingtondan/Doc_calc_carne.git)
+
 ☑️**PRODUTOR RURAL** 
 
 Para os estornos com Produtor Rural deve-se observar se os produtos recebidos são enquadrados ao diferimento, caso o produto seja **diferido** em sua *entrada* e com *saída tributada*, deve-se aplicar um débito e um crédito do valor percentual para zerar a operação.
