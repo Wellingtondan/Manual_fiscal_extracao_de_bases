@@ -431,16 +431,36 @@ Dessa forma, o crédito anula o débito original, resultando em um impacto tribu
 > ![image](https://github.com/user-attachments/assets/aa861124-5acb-4cb9-a19a-85ba837df995)
 > ![image](https://github.com/user-attachments/assets/8012475f-fec4-4630-a322-e19b08051333)
 
-
-
-
-
-
-
-
-
-
 ☑️**PRODUTOR RURAL** 
+
+Para os estornos com Produtor Rural deve-se observar se os produtos recebidos são enquadrados ao diferimento, caso o produto seja **diferido** em sua *entrada* e com *saída tributada*, deve-se aplicar um débito e um crédito do valor percentual para zerar a operação.
+
+Para os produtos com *entrada diferida* e *saída isenta*, não será realizado nenhum lançamento. 
+
+Segue o embasamento para o caso do leite, como exemplo:
+
+🗒️**DIFERIMENTO:** ARTIGO 389 DO RCMS/SP
+
+> **Artigo 389** - O lançamento do imposto incidente nas sucessivas *saídas de leite cru, pasteurizado ou reidratado* fica **diferido** para o momento em que ocorrer (Lei 6.374/89, art. 8°, XVII, e § 10, na redação da Lei 9.176/95, art. 1°, I):
+
+- I - sua saída para outro Estado;
+
+- II - sua saída para o exterior;
+
+- III - a saída dos produtos resultantes de sua industrialização;
+
+- IV - sua saída do estabelecimento que promover o engarrafamento ou envasamento em embalagens invioláveis, para distribuição.
+
+**Parágrafo único** - Quando se tratar de leite pasteurizado tipo especial, com 3,2% de gordura, leite pasteurizado magro, reconstituído ou não, com até 2% de gordura, ou leite pasteurizado tipo "A" ou "B", o diferimento interromper-se-á na saída para consumidor final.
+
+🗒️**ISENÇÃO:** ARTIGO 43 DO ANEXO I DO RICMS/SP
+
+> **Artigo 43. (LEITE PASTEURIZADO)** - Saída interna de estabelecimento **varejista** de leite pasteurizado tipo especial, com 3,2% de gordura, de leite pasteurizado magro, reconstituído ou não, com até 2% de gordura, ou de leite pasteurizado tipo "A" ou "B", com destino a **consumidor final** (Convênio ICM-25/83, cláusulas primeira, na redação do Convênio ICMS-36/94, e segunda, Convênios ICM-10/84, cláusula primeira, ICM-19/84, cláusula primeira, ICMS-43/90, e ICMS-124/93, cláusula primeira, V, 6).
+
+> ![image](https://github.com/user-attachments/assets/e48bac4f-cbe9-4695-8d49-7449b2d6da9c)
+
+
+
 
 ☑️**IMOBILIZADO DEVOLVIDO** 
 
