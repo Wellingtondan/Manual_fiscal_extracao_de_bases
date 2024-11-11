@@ -464,6 +464,10 @@ Segue o embasamento para o caso do leite, como exemplo:
 
 ☑️**IMOBILIZADO DEVOLVIDO** 
 
+[RESPOSTA DE CONSULTA ICMS – Crédito – Bem do ativo imobilizado](https://legislacao.fazenda.sp.gov.br/Paginas/RC16725_2017.aspx)
+
+
+
 ☑️**SIMPLES NACIONAL** 
 
 
