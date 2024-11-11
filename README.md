@@ -415,8 +415,8 @@ Suponha que:
 
 Quando ocorre a devolução:
 
-> - Valor da Entrada (Devolução): R$ 10.000,00
-> - Crédito (Estorno) Aplicado na Devolução: 10.000,00 \times 4,5\% = R$ 450,00
+> - **Valor da Entrada (Devolução):** R$ 10.000,00
+> - **Crédito (Estorno) Aplicado na Devolução:** 🔴 10.000,00 X 4,5% = R$ 450,00
   
 ### Resumo Contábil:
 
@@ -432,9 +432,6 @@ Dessa forma, o crédito anula o débito original, resultando em um impacto tribu
 > ![image](https://github.com/user-attachments/assets/8012475f-fec4-4630-a322-e19b08051333)
 
 
-
-
-> ![image](https://github.com/user-attachments/assets/27c29545-c65f-4cdc-be0b-440da9c4b087)
 
 
 
