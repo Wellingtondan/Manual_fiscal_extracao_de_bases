@@ -431,7 +431,7 @@ Dessa forma, o crédito anula o débito original, resultando em um impacto tribu
 > ![image](https://github.com/user-attachments/assets/aa861124-5acb-4cb9-a19a-85ba837df995)
 > ![image](https://github.com/user-attachments/assets/8012475f-fec4-4630-a322-e19b08051333)
 
-- Documento auxiliar sobre CALC CARNE
+- 📂Documento auxiliar sobre CALC CARNE
 
 [DOCUMENTAÇÃO - CALC CARNE](https://github.com/Wellingtondan/Doc_calc_carne.git)
 
@@ -485,7 +485,15 @@ O sistema esta parametrizado para puxar todos os CFOP relacionados as operaçõe
 
 ☑️**SIMPLES NACIONAL** 
 
-
+> **Relatório de Crédito do Simples Nacional:**
+  
+>   -       1.Sistema
+>   -       2.Contabilidade
+>   -       3.Fiscal
+>   -       4.Obrigações estaduais > São Paulo >
+>   -       5.Geração CR 20/CR 25 GIA SP – Simples Nacional > mês ano >
+>   -       6.Confirmar > salvar em pdf > imprimir > baixar em PDF as notas fiscais trazidas.
+> ![image](https://github.com/user-attachments/assets/7f35465e-bda1-4c46-a202-110442bbb15e) ![image](https://github.com/user-attachments/assets/48bf3d05-fc28-4481-a431-193b21ec8d40)
 
 
 
@@ -538,19 +546,7 @@ O sistema esta parametrizado para puxar todos os CFOP relacionados as operaçõe
 
 
 
-### 1.6 - 7° Simples Nacional
 
-> **Relatório de Crédito do Simples Nacional:**
-  
->   -       1.Sistema
->   -       2.Contabilidade
->   -       3.Fiscal
->   -       4.Obrigações estaduais > São Paulo >
->   -       5.Geração CR 20/CR 25 GIA SP – Simples Nacional > mês ano >
->   -       6.Confirmar > salvar em pdf > imprimir > baixar em PDF as notas fiscais trazidas.
-
-
-> ![image](https://github.com/user-attachments/assets/7f35465e-bda1-4c46-a202-110442bbb15e) ![image](https://github.com/user-attachments/assets/48bf3d05-fc28-4481-a431-193b21ec8d40)
 
 ### 1.7 - 8° Apuração de ICMS:
 
