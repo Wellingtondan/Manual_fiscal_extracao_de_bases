@@ -546,8 +546,15 @@ E na imagem abaixo um exemplo da NFE de GLP e o XML da Nf-e onde apresenta a al�
 - CFOP ENERGIA: 1.253 | 2.253
 
 > ![image](https://github.com/user-attachments/assets/b465d12f-c831-4cbf-bee4-8fba2474680f)
+----------------------------------------------------------------------------
 
-#### 1.10 - 10° Conferências Aproveitamento de Crédito (COMBUSTíVEL) 
+#### 1.11 - 11° Conferências Aproveitamento de Crédito (COMUNICAÇÃO) 
+
+Para a comunicação (Telefone/Internet) é realizada a conferência das entradas dos CFOPs 1.253 e 2.253 para verificar se o valor lançado no Livro de entrada esta conforme NF.
+
+- CFOP ENERGIA: 1.253 | 2.253
+
+
 
 
 
