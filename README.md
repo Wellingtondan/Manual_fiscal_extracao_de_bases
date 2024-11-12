@@ -512,10 +512,12 @@ Ao puxar o relatório é possível identificar se houveram movimentações de fo
 Abaixo a imagem do sistema Etccom com os valores de ICMS do Simples Nacional, e aproveitei um caso do cliente Pró Vida onde o Fornecedor destaca em XML o aproveitamento de crédito para produtos sujeitos a substituição tributária, mas de acordo com a Lei Complementar nº 87/1996 (Lei Kandir):
 
 - **1. Restrição de crédito sobre operações isentas ou não tributadas:**
- Conforme o Art. 20, § 1º, o crédito de ICMS não é permitido em operações isentas ou não tributadas, nem para produtos ou serviços alheios à atividade do estabelecimento.
+
+Conforme o Art. 20, § 1º, o crédito de ICMS não é permitido em operações isentas ou não tributadas, nem para produtos ou serviços alheios à atividade do estabelecimento.
 
 - **2. Vedação de crédito em determinadas operações:**
- O § 3º do Art. 20 veda o crédito de ICMS nas seguintes situações:
+
+O § 3º do Art. 20 veda o crédito de ICMS nas seguintes situações:
 
    - Inciso I: Quando mercadorias ou serviços são adquiridos para consumo ou integração em um processo de industrialização, e o produto final não for tributado ou estiver isento (exceto para exportações).
 
@@ -525,20 +527,9 @@ Abaixo a imagem do sistema Etccom com os valores de ICMS do Simples Nacional, e 
 > O aproveitamento de crédito de ICMS é restrito a produtos tributados. De acordo com a Lei Complementar nº 87/1996 (Lei Kandir), apenas operações que envolvem mercadorias ou serviços tributados geram direito ao crédito de ICMS, ou seja, o crédito é devido nas operações de circulação de mercadorias ou prestação de serviços em que o imposto tenha sido efetivamente cobrado.
 
 > ![image](https://github.com/user-attachments/assets/01ebe46e-93dc-4d94-adc4-2f7d03d381b4)
+----------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-(REGISTRO APURAÇÃO / PRODUTOR RURAL 👈):
-
-
-
-#### 1.9 - 9° Conferências Aproveitamento de Crédito (COMBUSTíVEL) 
+#### 1.10 - 10° Conferências Aproveitamento de Crédito (COMBUSTíVEL) 
 
 Emitido o relatório de conferência do LIVRO COMBUSTÍVEL e analisadas as notas de Diesel e GLP, e seus aproveitamentos de crédito conforme embasamento legal:
 
@@ -552,7 +543,11 @@ Abaixo, a planilha do cálculo do Valor do ICMS sujeito a tributacao monofásica
 
 E na imagem abaixo um exemplo da NFE de GLP e o XML da Nf-e onde apresenta a alíquota a ser utilizada pelo fornecedor para aplicação do aproveitamento do crédito.
 
+- CFOP ENERGIA: 1.253 | 2.253
+
 > ![image](https://github.com/user-attachments/assets/b465d12f-c831-4cbf-bee4-8fba2474680f)
+
+#### 1.10 - 10° Conferências Aproveitamento de Crédito (COMBUSTíVEL) 
 
 
 
