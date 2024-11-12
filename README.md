@@ -507,10 +507,10 @@ Ao puxar o relatório é possível identificar se houveram movimentações de fo
 
 Abaixo a imagem do sistema Etccom com os valores de ICMS do Simples Nacional, e aproveitei um caso do cliente Pró Vida onde o Fornecedor destaca em XML o aproveitamento de crédito para produtos sujeitos a substituição tributária, mas de acordo com a Lei Complementar nº 87/1996 (Lei Kandir):
 
-- **Restrição de crédito sobre operações isentas ou não tributadas:**
+- **1. Restrição de crédito sobre operações isentas ou não tributadas:**
  Conforme o Art. 20, § 1º, o crédito de ICMS não é permitido em operações isentas ou não tributadas, nem para produtos ou serviços alheios à atividade do estabelecimento.
 
-- **Vedação de crédito em determinadas operações:**
+- **2. Vedação de crédito em determinadas operações:**
  O § 3º do Art. 20 veda o crédito de ICMS nas seguintes situações:
 
    - Inciso I: Quando mercadorias ou serviços são adquiridos para consumo ou integração em um processo de industrialização, e o produto final não for tributado ou estiver isento (exceto para exportações).
