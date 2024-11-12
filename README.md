@@ -517,7 +517,10 @@ Abaixo a imagem do sistema Etccom com os valores de ICMS do Simples Nacional, e 
 
    - Inciso II: Quando as mercadorias são adquiridas para comercialização ou prestação de serviço, e as operações subsequentes não são tributadas (exceto as destinadas ao exterior).
 
-![image](https://github.com/user-attachments/assets/01ebe46e-93dc-4d94-adc4-2f7d03d381b4)
+> [!NOTE] 
+> O aproveitamento de crédito de ICMS é restrito a produtos tributados. De acordo com a Lei Complementar nº 87/1996 (Lei Kandir), apenas operações que envolvem mercadorias ou serviços tributados geram direito ao crédito de ICMS, ou seja, o crédito é devido nas operações de circulação de mercadorias ou prestação de serviços em que o imposto tenha sido efetivamente cobrado.
+
+> ![image](https://github.com/user-attachments/assets/01ebe46e-93dc-4d94-adc4-2f7d03d381b4)
 
 
 
