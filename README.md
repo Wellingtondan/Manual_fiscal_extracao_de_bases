@@ -505,9 +505,19 @@ O sistema esta parametrizado para puxar todos os CFOP relacionados as operaçõe
 
 Ao puxar o relatório é possível identificar se houveram movimentações de fornecedores do Simples Nacional com apropriação do crédito (direito) para inclusão de lançamento da "APURAÇÃO DO ICMS".
 
-e ABAIXO 
+Abaixo a imagem do sistema Etccom com os valores de ICMS do Simples Nacional, e aproveitei um caso do cliente Pró Vida onde o Fornecedor destaca em XML o aproveitamento de crédito para produtos sujeitos a substituição tributária, mas de acordo com a Lei Complementar nº 87/1996 (Lei Kandir):
 
-![image](https://github.com/user-attachments/assets/4cd1d1e8-82cc-429c-84be-840c25475ba4)
+- **Restrição de crédito sobre operações isentas ou não tributadas:**
+ Conforme o Art. 20, § 1º, o crédito de ICMS não é permitido em operações isentas ou não tributadas, nem para produtos ou serviços alheios à atividade do estabelecimento.
+
+- **Vedação de crédito em determinadas operações:**
+ O § 3º do Art. 20 veda o crédito de ICMS nas seguintes situações:
+
+   - Inciso I: Quando mercadorias ou serviços são adquiridos para consumo ou integração em um processo de industrialização, e o produto final não for tributado ou estiver isento (exceto para exportações).
+
+   - Inciso II: Quando as mercadorias são adquiridas para comercialização ou prestação de serviço, e as operações subsequentes não são tributadas (exceto as destinadas ao exterior).
+
+![image](https://github.com/user-attachments/assets/01ebe46e-93dc-4d94-adc4-2f7d03d381b4)
 
 
 
