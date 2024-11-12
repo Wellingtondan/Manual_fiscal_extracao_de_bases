@@ -375,6 +375,8 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 > ![image](https://github.com/user-attachments/assets/70483a20-fb00-4632-92d0-fe895b07a997)
 
 - Os lançamentos são: COMPANHIA ELÉTRICA, NOTA FISCAL, % APROVEITAMENTO DE CRÉDITO, % ALÍQUOTA ICMS , VALOR CONTÁBIL E INCLUIR LANÇPAMENTOS
+
+- **CFOP ENERGIA:** 1.253 | 2.253
   
 ----------------------------------------------------------------------------
 
@@ -397,6 +399,8 @@ Para essa etapa são calculados os valores de débito e crédito de ICMS e efetu
 ☑️**CESTA BÁSICA** 
 
 É realizada a conferência das CST e alíquotas dos produtos lançados como **CESTA BÀSICA**, para identificar se estão na CST 00 e alíquota de 7%, ou CST 20 e alíquota de 12 ou 18 que resulte em 7%
+
+- **CFOP CESTA BÁSICA:** 2.101 | 2.102 | 2.910
 
 > ![image](https://github.com/user-attachments/assets/a92ddb22-7255-4b81-92bc-d555e23aa21e)
 ----------------------------------------------------------------------------
