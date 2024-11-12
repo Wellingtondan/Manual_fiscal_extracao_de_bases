@@ -505,19 +505,17 @@ O sistema esta parametrizado para puxar todos os CFOP relacionados as operaçõe
 
 Ao puxar o relatório é possível identificar se houveram movimentações de fornecedores do Simples Nacional com apropriação do crédito (direito) para inclusão de lançamento da "APURAÇÃO DO ICMS".
 
-Mas abaixo 
+e ABAIXO 
 
-![image](https://github.com/user-attachments/assets/9be7b719-87eb-44eb-ad06-cf1865baee17)
-
-
+![image](https://github.com/user-attachments/assets/4cd1d1e8-82cc-429c-84be-840c25475ba4)
 
 
 
 
 
-> ![image](https://github.com/user-attachments/assets/06ba7885-aca6-4bb5-95d8-cec6792cadca)
 
-> ![image](https://github.com/user-attachments/assets/36a1251a-94e1-43ce-827f-6b7fb438fd9c)
+
+
 
 (REGISTRO APURAÇÃO / PRODUTOR RURAL 👈):
 
@@ -542,7 +540,13 @@ E na imagem abaixo um exemplo da NFE de GLP e o XML da Nf-e onde apresenta a al�
 
 
 
+PIS/COFINS 
 
+COMPRA C/BONIFICAÇÃO
+
+ESTORNO S/DEVOLUÇÃO
+
+APURAÇÃO PIS/~COFINS
 
 
 
@@ -644,5 +648,15 @@ E na imagem abaixo um exemplo da NFE de GLP e o XML da Nf-e onde apresenta a al�
 >      > > > > > > >     8.Filtrar por CGO de perdas e de devolução - período - impressora - salvar e imprimir.
 
 > ![image](https://github.com/user-attachments/assets/58c197f5-5397-4602-b219-50f4fb53d296) ![image](https://github.com/user-attachments/assets/c30b9cb6-ba9a-4d9c-a5ee-7f0e477226ac)
+
+
+
+
+------
+
+> ![image](https://github.com/user-attachments/assets/06ba7885-aca6-4bb5-95d8-cec6792cadca)
+
+> ![image](https://github.com/user-attachments/assets/36a1251a-94e1-43ce-827f-6b7fb438fd9c)
+
 
 
