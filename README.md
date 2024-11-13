@@ -541,9 +541,9 @@ Abaixo, a planilha do cálculo do Valor do ICMS sujeito a tributacao monofásica
 
 [Credito de Combustivel.xlsx](https://github.com/user-attachments/files/17707838/Credito.de.Combustivel.xlsx)
 
-E na imagem abaixo um exemplo da NFE de GLP e o XML da Nf-e onde apresenta a alíquota a ser utilizada pelo fornecedor para aplicação do aproveitamento do crédito.
+E na imagem abaixo um exemplo da NFE de GLP gás de empilhadeira e o XML da Nf-e, onde apresenta a alíquota a ser utilizada pelo fornecedor para aplicação do aproveitamento do crédito.
 
-- CFOP ENERGIA: 1.253 | 2.253
+- **CFOP COMBUSTÍVEL:** 1.653 | 2.653
 
 > ![image](https://github.com/user-attachments/assets/b465d12f-c831-4cbf-bee4-8fba2474680f)
 ----------------------------------------------------------------------------
@@ -552,20 +552,38 @@ E na imagem abaixo um exemplo da NFE de GLP e o XML da Nf-e onde apresenta a al�
 
 Para a comunicação (Telefone/Internet) é realizada a conferência das entradas dos CFOPs 1.253 e 2.253 para verificar se o valor lançado no Livro de entrada esta conforme NF.
 
-- CFOP ENERGIA: 1.253 | 2.253
+Abaixo, CFOP para extrair relatório de análises:
+
+- **CFOP TELEFONE:** 1.303 | 2.303
+- 
+----------------------------------------------------------------------------
+
+#### 1.12 - 12° Conferência PIS/COFINS
+
+Para essa etapa são analisados os relatórios dos lançamentos para as seguintes operações:
+
+- COMPRA C/BONIFICAÇÃO, ESTORNO S/DEVOLUÇÃO e APURAÇÃO PIS/COFINS
+  
+----------------------------------------------------------------------------
+
+☑️**COMPRA C/BONIFICAÇÃO** 
+
+Para conferência 
+
+> ![image](https://github.com/user-attachments/assets/07e1a30b-fb86-4d45-8a9b-bba5bb439a75)
 
 
+☑️**ESTORNO S/DEVOLUÇÃO** 
+
+☑️**APURAÇÃO PIS/~COFINS** 
 
 
-
-
-PIS/COFINS 
+ 
 
 COMPRA C/BONIFICAÇÃO
 
-ESTORNO S/DEVOLUÇÃO
 
-APURAÇÃO PIS/~COFINS
+
 
 
 
