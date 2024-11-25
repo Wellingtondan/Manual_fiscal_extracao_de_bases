@@ -226,7 +226,31 @@ Nessa etapa são realizadas as importações das bases em fonte de dados:
 > [!NOTE]
 > No ***"Vendas Gerencial"*** os CGOs vinculados para análise são de particularidade de cada cliente, nesse exemplo utilizei como base do cliente ARROZ ESTRELA, os CGOs utilizados para conferência foram o 810, 811, 814, 830 e 840. Basta clicar na seta⬅️ para que puxe a relação dos CGOs, e ao clicar no botão verde serão extraídas as informações para a tela inicial, basta clicar na impressora para gerar o relatório.
 
-##### 1.5.1 - Conferência (ANÁLISES - ENTRADAS / SAÍDAS 👈):
+##### 1.5.1 - Impressões dos livros de Entrada:
+
+>  - a) **Impressão dos livros de entrada**
+
+>    -       1.Relatórios
+>    -       2.Livros fiscais
+>    -       3.Entrada
+>    -       4.Mês anterior
+>    -       5.Imprime emitente junto à nota
+>    -       6.Filtrar CFOP (período)
+>    -       7.Selecionar CFOP
+>    -       8.Impressora > salvar em pdf > imprimir.
+
+> ![image](https://github.com/user-attachments/assets/5bb09faf-ba90-4fe1-b626-af45a3cc650d)  ![image](https://github.com/user-attachments/assets/97bfdded-8e23-4b7c-a4f0-dc7b1bd99d72)
+
+```Gerar os livros de entrada para conferência: ```
+
+> ![image](https://github.com/user-attachments/assets/c000a03f-3f41-4224-98a7-55637612aa07)
+
+>     GARES e GNRE pagas 
+>     imprimir relatório da Conta Fiscal (Posto Fiscal - Sefaz) para conferir e confirmar pagamentos
+>     conferir dados da observação do livro: valor, vencimento, código e artigo.
+
+
+##### 1.5.2 - Conferência (ANÁLISES - ENTRADAS / SAÍDAS 👈):
 
 > [!IMPORTANT]
 > Apenas para conhecimento, os impostos são agrupados por CFOP pela base de saídas.
@@ -572,8 +596,10 @@ Para conferência dessa etapa são analisadas as entradas de mercadorias de COMP
 
 > ![image](https://github.com/user-attachments/assets/7f832d09-f461-4b3e-afed-0dec87d9f057)
 
-
+- **Exemplo 2** - NF C/Bonificação
 > ![image](https://github.com/user-attachments/assets/07e1a30b-fb86-4d45-8a9b-bba5bb439a75)
+
+
 
 
 ☑️**ESTORNO S/DEVOLUÇÃO** 
@@ -581,36 +607,11 @@ Para conferência dessa etapa são analisadas as entradas de mercadorias de COMP
 ☑️**APURAÇÃO PIS/~COFINS** 
 
 
- 
-
-COMPRA C/BONIFICAÇÃO
 
 
 
 
 
-
-
->  - d) **Impressão dos livros de entrada**
-
->    -       1.Relatórios
->    -       2.Livros fiscais
->    -       3.Entrada
->    -       4.Mês anterior
->    -       5.Imprime emitente junto à nota
->    -       6.Filtrar CFOP (período)
->    -       7.Selecionar CFOP
->    -       8.Impressora > salvar em pdf > imprimir.
-
-> ![image](https://github.com/user-attachments/assets/5bb09faf-ba90-4fe1-b626-af45a3cc650d) ![image](https://github.com/user-attachments/assets/97bfdded-8e23-4b7c-a4f0-dc7b1bd99d72)
-
-```Gerar os livros de entrada para conferência: ```
-
-> ![image](https://github.com/user-attachments/assets/c000a03f-3f41-4224-98a7-55637612aa07)
-
->     GARES e GNRE pagas 
->     imprimir relatório da Conta Fiscal (Posto Fiscal - Sefaz) para conferir e confirmar pagamentos
->     conferir dados da observação do livro: valor, vencimento, código e artigo.
 
 
 
