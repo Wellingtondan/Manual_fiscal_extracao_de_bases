@@ -568,7 +568,10 @@ Para essa etapa são analisados os relatórios dos lançamentos para as seguinte
 
 ☑️**COMPRA C/BONIFICAÇÃO** 
 
-Para conferência 
+Para conferência dessa etapa são analisadas as entradas de mercadorias de COMPRA C/BONIFICAÇÃO no CFOP 5910 classificando a operação como bonificada, com isso, para fins de cálculo é apurado do ```valor total dos produtos - valor total de ICMS Próprio```, na qual irá resultar na ```Base PIS``` e ```Base COFINS```.
+
+> ![image](https://github.com/user-attachments/assets/7f832d09-f461-4b3e-afed-0dec87d9f057)
+
 
 > ![image](https://github.com/user-attachments/assets/07e1a30b-fb86-4d45-8a9b-bba5bb439a75)
 
