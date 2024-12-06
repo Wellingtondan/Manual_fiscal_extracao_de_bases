@@ -587,10 +587,44 @@ Para a comunicação (Telefone/Internet) é realizada a conferência das entrada
 Abaixo, CFOP para extrair relatório de análises:
 
 - **CFOP TELEFONE:** 1.303 | 2.303
-- 
+  
 ----------------------------------------------------------------------------
 
-#### 1.12 - 12° Conferência PIS/COFINS
+#### 1.12 - 12° Conferências Aproveitamento de Crédito (DIFAL - ATIVO IMOBILIZADO / DESPESAS) 
+
+os valores somados de cada nota fiscal deve-se lançar como crédito e débito para equalizar os valores corretos do crédito de apropriação:
+
+**Lançamentos de Créditos**
+
+- Código de ajuste: 718
+
+- Tipo Ajuste: Outros Créditos
+
+- Descrição: Diferencial alíquotas
+
+- Base legal: Artigo 117, inciso I do RICMS/SP
+
+- Valor: ----
+
+
+**Lançamentos de Débitos**
+
+- Código de ajuste: 207   
+
+- Tipo Ajuste: Outros Débitos
+
+- Descrição: Diferencial alíquotas
+
+- Base legal: Artigo 117, inciso I do RICMS/SP
+
+- Valor: ----
+
+
+> ![image](https://github.com/user-attachments/assets/3031c99e-17f7-4a4e-afcf-36c39e48ce67)
+
+
+----------------------------------------------------------------------------
+#### 1.13 - 13° Conferência PIS/COFINS
 
 Para essa etapa são analisados os relatórios dos lançamentos para as seguintes operações:
 
