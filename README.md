@@ -677,13 +677,25 @@ Para conferência dessa etapa são analisadas as entradas de mercadorias de COMP
 > ![image](https://github.com/user-attachments/assets/07e1a30b-fb86-4d45-8a9b-bba5bb439a75)
 
 
-
-
 ☑️**ESTORNO S/DEVOLUÇÃO** 
 
-☑️**APURAÇÃO PIS/~COFINS** 
+Para essa etapa da conferência precisa se atentar se não há nenhuma CST PIS 01 na qual se tem direito ao crédito, agora se estiver nas CST 04, 06, 09 e 49 estão corretas devido a não ter o direito a se creditar.
+
+Quando a mercadoria tiver entrada na CST 01, a devolução precisa sair com a CST 49 como Outras Operações de Saída.
+
+Abaixo a imagem o valor do estorno de crédito de PIS/COFINS da devolução:
+
+> ![image](https://github.com/user-attachments/assets/d3b35739-25b0-49f0-a49f-960769cc0697)
+
+E relatório de Apuração de PIS/COFINS com o valor da BASE de Cálculo das devoluções à fornecedores:
+
+> ![image](https://github.com/user-attachments/assets/aacec809-4b00-41c7-8799-39b4f9575f44)
 
 
+☑️**APURAÇÃO PIS/COFINS** 
+
+
+![image](https://github.com/user-attachments/assets/63feb2b1-602e-42e2-b173-383ecf345c0b)
 
 
 
