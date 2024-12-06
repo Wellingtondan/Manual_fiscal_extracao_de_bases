@@ -570,6 +570,8 @@ E na imagem abaixo um exemplo da NFE de GLP gás de empilhadeira e o XML da Nf-e
 - **CFOP COMBUSTÍVEL:** 1.653 | 2.653
 
 > ![image](https://github.com/user-attachments/assets/b465d12f-c831-4cbf-bee4-8fba2474680f)
+
+Observações adicionais: 
 ----------------------------------------------------------------------------
 
 #### 1.11 - 11° Conferências Aproveitamento de Crédito (COMUNICAÇÃO) 
