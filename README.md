@@ -592,7 +592,7 @@ Abaixo, CFOP para extrair relatório de análises:
 
 #### 1.12 - 12° Conferências Aproveitamento de Crédito (DIFAL - ATIVO IMOBILIZADO / DESPESAS) 
 
-os valores somados de cada nota fiscal deve-se lançar como crédito e débito para equalizar os valores corretos do crédito de apropriação:
+Os valores somados de cada nota fiscal deve-se lançar como crédito e débito para equalizar os valores corretos do crédito de apropriação:
 
 **Lançamentos de Créditos**
 
