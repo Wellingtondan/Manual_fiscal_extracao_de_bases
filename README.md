@@ -571,7 +571,13 @@ E na imagem abaixo um exemplo da NFE de GLP gás de empilhadeira e o XML da Nf-e
 
 > ![image](https://github.com/user-attachments/assets/b465d12f-c831-4cbf-bee4-8fba2474680f)
 
-Observações adicionais: 
+```Observações adicionais:```
+
+Caso receba NF de GLP gás ou Diesel do Simples Nacional sem direito ao crédito, não será lançado nenhum crédito na apuração de ICMS, segue como exemplo essa NF no link abaixo:
+
+- [Nota Simples Nacional sem direito a crédito](https://github.com/Wellingtondan/Manual_fiscal_extracao_de_bases/blob/main/507%20-%20MARIA%20L.pdf)
+
+  
 ----------------------------------------------------------------------------
 
 #### 1.11 - 11° Conferências Aproveitamento de Crédito (COMUNICAÇÃO) 
