@@ -619,12 +619,47 @@ Os valores somados de cada nota fiscal deve-se lançar como crédito e débito p
 
 - Valor: ----
 
-
 > ![image](https://github.com/user-attachments/assets/3031c99e-17f7-4a4e-afcf-36c39e48ce67)
 
 
 ----------------------------------------------------------------------------
-#### 1.13 - 13° Conferência PIS/COFINS
+
+#### 1.13 - 13° Conferências Aproveitamento de Crédito (DARE) 
+
+Os valores a serem lançados na apuração de ICMS será consideração do relatório de MOVIMENTO DE TÍTULOS DE OBRIGAÇÕES deve-SE lançar como crédito e débito para equalizar os valores:
+
+**Lançamentos de Créditos**
+
+- Código de ajuste: 799
+
+- Tipo Ajuste: Outros Créditos
+
+- Descrição: Recolhimento Antecipado por DARE
+
+- Base legal: Artigo 277, § 3° itens "1" a e 2, do RICMS/SP
+
+- Valor: ----
+
+
+**Lançamentos de Débitos**
+
+- Código de ajuste: 212   
+
+- Tipo Ajuste: Outros Débitos
+
+- Descrição: Recolhimento Antecipado por DARE
+
+- Base legal: Artigo 277, § 2° itens "1" a e 2, do RICMS/SP
+
+- Valor: ----
+
+> ![image](https://github.com/user-attachments/assets/be91d6fb-0576-4f7f-8dcc-3ff435eccab4)
+
+----------------------------------------------------------------------------
+
+
+
+#### 1.14 - 14° Conferência PIS/COFINS
 
 Para essa etapa são analisados os relatórios dos lançamentos para as seguintes operações:
 
