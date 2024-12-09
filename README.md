@@ -691,6 +691,16 @@ E relatório de Apuração de PIS/COFINS com o valor da BASE de Cálculo das dev
 
 > ![image](https://github.com/user-attachments/assets/aacec809-4b00-41c7-8799-39b4f9575f44)
 
+CONFERÊNCIA DO ESTORNO DO CRÉDITO DE PERDAS
+
+> ![image](https://github.com/user-attachments/assets/0e70161e-c95b-47f2-9095-ec692ac1d169)
+
+
+CONFERÊNCIA DO ESTORNO DO CRÉDITO DE DEVOLUÇÃO
+
+![image](https://github.com/user-attachments/assets/4064abf7-8115-461a-8846-5e522bdc21bd)
+
+
 
 ☑️**APURAÇÃO PIS/COFINS** 
 
