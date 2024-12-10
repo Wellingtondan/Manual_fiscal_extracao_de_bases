@@ -709,7 +709,12 @@ CONFERÊNCIA DO ESTORNO DO CRÉDITO DE DEVOLUÇÃO
 
 
 
+Na conferência da Apuração são somados os valores de COMPRAS - Total Contábil, DEVOLUÇÂO - Total contábil e caso tenha lançamento ORC CST 50 que sai no RELATÓRIO DE CONNFERÊNCIA DO APURAÇÃO DE PIS/COFINS:
 
+> ![image](https://github.com/user-attachments/assets/3ec22760-5647-451d-a9e9-29c15b2d7302)
+
+
+> ![image](https://github.com/user-attachments/assets/9c39debd-1eb7-41fc-80d6-7876158a9410)
 
 
 
