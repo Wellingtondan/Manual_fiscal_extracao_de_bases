@@ -790,7 +790,7 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 > ![image](https://github.com/user-attachments/assets/58c197f5-5397-4602-b219-50f4fb53d296) ![image](https://github.com/user-attachments/assets/c30b9cb6-ba9a-4d9c-a5ee-7f0e477226ac)
 
 
-☑️**REGISTRO APURAÇÃO (Sistema TOTVS)** 
+☑️**REGISTROs da APURAÇÃO PIS/COFINS (Sistema TOTVS)** 
 
 - 📂Imagem da Apuração:
 
@@ -816,7 +816,7 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 ☑️**LANÇAMENTOS - Registro F120 e F130**
 
-```- PROCESSOS - APURAÇÃO PIS/COFINS - Bebs Incorporados ao Ativo Imobilizado - Registros F120 e F130```
+```- PROCESSOS - APURAÇÃO PIS/COFINS - Bens Incorporados ao Ativo Imobilizado - Registros F120 e F130```
 
 - 📂Lançamentos das receitas e despesas (Amortização / Depreciação):
 
@@ -834,11 +834,16 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 - [Planilha de Receitas e Despesas para PIS/COFINS](https://github.com/Wellingtondan/Manual_fiscal_extracao_de_bases/blob/main/Demais%20receitas%20e%20despesas%20para%20PIS%20COFINS%20-%20Reta%20e%20Hort%2011.2024_ok.xls)
 
 
-☑️**Conferência 
+☑️**VALORES**
 
 - Os valores de **DÉBITOS** da apuração de PIS/COFINS são lançadas com referência das CSTs (01, 04, 05, 06 e 09)
+> ![image](https://github.com/user-attachments/assets/1c4cbe7a-c68d-4b6f-bd0b-68550077b92b)
+
 - Os valores de **CRÉDITOS** com base nas CSTs (50, 53, 70, 73, 75 e 98)
+> ![image](https://github.com/user-attachments/assets/084522c7-785d-4621-bbce-f74a4f68f3f1)
+
 - E os **ESTORNOS DE CRÉDITOS** são lançados em **BAIXAS DE ESTOQUE** e/ou **DEVOLUÇÃO À FORNECEDORES**
+> ![image](https://github.com/user-attachments/assets/34afecff-f5d2-49ef-afbc-bde1bbf6448f)
 
 
 
