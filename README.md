@@ -829,6 +829,8 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 - [Planilha de Receitas e Despesas para PIS/COFINS](https://github.com/Wellingtondan/Manual_fiscal_extracao_de_bases/blob/main/Demais%20receitas%20e%20despesas%20para%20PIS%20COFINS%20-%20Reta%20e%20Hort%2011.2024_ok.xls)
 
+> ![image](https://github.com/user-attachments/assets/2cdcb3af-77fc-4df8-8084-f2c6d52d1369)
+
 
 ☑️**Planilha de preenchimento de valores do PIS/COFINS**
 
