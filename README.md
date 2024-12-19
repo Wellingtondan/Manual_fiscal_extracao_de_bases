@@ -768,7 +768,7 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 > ![image](https://github.com/user-attachments/assets/f30ba80c-a419-41cb-8bb7-cb270105e4cd) ![image](https://github.com/user-attachments/assets/402cd72b-16eb-437e-8cc0-a7e5fa85ae79)
 
-☑️**Para relatório auxiliar para conferência** 
+☑️**Relatório auxiliar para conferência** 
 
 >   -       1.Processos
 >   -       2.Apuração PIS COFINS
@@ -776,7 +776,7 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 > ![image](https://github.com/user-attachments/assets/05f29d84-6c39-46cb-b6ca-9e73d712017f) ![image](https://github.com/user-attachments/assets/6d7c48db-b77e-4e03-899d-30f728d6a93f)
 
-☑️**Para relatório de perdas e devolução PIS COFINS**
+☑️**Relatório de perdas e devolução PIS COFINS**
 
 >   -       1.Fiscal
 >      > >     2.Processos
@@ -790,7 +790,7 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 > ![image](https://github.com/user-attachments/assets/58c197f5-5397-4602-b219-50f4fb53d296) ![image](https://github.com/user-attachments/assets/c30b9cb6-ba9a-4d9c-a5ee-7f0e477226ac)
 
 
-☑️**REGISTROs da APURAÇÃO PIS/COFINS (Sistema TOTVS)** 
+☑️**REGISTROS DA APURAÇÃO PIS/COFINS (Sistema TOTVS)** 
 
 - 📂Imagem da Apuração:
 
