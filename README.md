@@ -716,16 +716,10 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 > ![image](https://github.com/user-attachments/assets/9c39debd-1eb7-41fc-80d6-7876158a9410)
 
+----------------------------------------------------------------------------
 
 
-
-
-
-
-
-
-
-### 1.7 - 8° Apuração de ICMS (Sistema TOTVS):
+#### 1.15 - 15°  Apuração de ICMS (Sistema TOTVS):
 
 > [!NOTE]
 > **Para apuração**
@@ -758,9 +752,11 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 > ![image](https://github.com/user-attachments/assets/a86f7b94-e2a4-4a50-9439-929e24a79254) ![image](https://github.com/user-attachments/assets/646f4ef1-ae7e-4b4f-a72d-40e702dad3a4)
 
-### 1.8 - 9° PIS E COFINS
+----------------------------------------------------------------------------
 
-> **Para apuração**
+#### 1.16 - 16° PIS E COFINS (Sistema TOTVS)
+
+☑️**Para apuração**
 
 >   -       1.Sistema
 >   -       2.Contabilidade
@@ -773,7 +769,7 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 > ![image](https://github.com/user-attachments/assets/f30ba80c-a419-41cb-8bb7-cb270105e4cd) ![image](https://github.com/user-attachments/assets/402cd72b-16eb-437e-8cc0-a7e5fa85ae79)
 
->   - **Para relatório auxiliar para conferência**
+☑️**Para relatório auxiliar para conferência** 
 
 >   -       1.Processos
 >   -       2.Apuração PIS COFINS
@@ -781,7 +777,7 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 > ![image](https://github.com/user-attachments/assets/05f29d84-6c39-46cb-b6ca-9e73d712017f) ![image](https://github.com/user-attachments/assets/6d7c48db-b77e-4e03-899d-30f728d6a93f)
 
-> **Para relatório de perdas e devolução PIS COFINS**
+☑️**Para relatório de perdas e devolução PIS COFINS**
 
 >   -       1.Fiscal
 >      > >     2.Processos
@@ -795,5 +791,5 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 > ![image](https://github.com/user-attachments/assets/58c197f5-5397-4602-b219-50f4fb53d296) ![image](https://github.com/user-attachments/assets/c30b9cb6-ba9a-4d9c-a5ee-7f0e477226ac)
 
 
-
+☑️**REGISTRO APURAÇÃO - SISTEMA ETCCOM (PRODUTOR RURAL)** 
 
