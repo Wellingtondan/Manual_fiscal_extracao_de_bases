@@ -797,11 +797,3 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 
 
-------
-
-> ![image](https://github.com/user-attachments/assets/06ba7885-aca6-4bb5-95d8-cec6792cadca)
-
-> ![image](https://github.com/user-attachments/assets/36a1251a-94e1-43ce-827f-6b7fb438fd9c)
-
-
-
