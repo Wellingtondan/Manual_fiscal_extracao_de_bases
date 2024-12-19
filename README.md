@@ -813,6 +813,8 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 > ![image](https://github.com/user-attachments/assets/e7c07214-4019-4557-9dab-735b87c4653e)
 
+```OBSERVAÇÃO:``` Ao lançar as despesas de aluguéis precisa adicionar a **PESSOA** e precisa inserir o **código 43838 (JLNANDA)**
+
 
 ☑️**LANÇAMENTOS - Registro F120 e F130**
 
@@ -851,7 +853,10 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 > ![image](https://github.com/user-attachments/assets/34afecff-f5d2-49ef-afbc-bde1bbf6448f)
 
 
+☑️**OBSERVAÇÕES**
 
-
+- As alíquotas de lançamentos para a CST 01 são: (PIS) 1,65% e (COFINS) 7,60%
+- As alíquotas de lançamentos para a CST 02 são: (PIS) 0,65% e (COFINS) 4,00%
+- As alíquotas de lançamentos para a CST 50 são: (PIS) 1,65% e (COFINS) 7,60% para operações de aluguéis, locações, depreciações e/ou amortizações.
 
 
