@@ -834,7 +834,11 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 - [Planilha de Receitas e Despesas para PIS/COFINS](https://github.com/Wellingtondan/Manual_fiscal_extracao_de_bases/blob/main/Demais%20receitas%20e%20despesas%20para%20PIS%20COFINS%20-%20Reta%20e%20Hort%2011.2024_ok.xls)
 
 
+☑️**Conferência 
 
+- Os valores de **DÉBITOS** da apuração de PIS/COFINS são lançadas com referência das CSTs (01, 04, 05, 06 e 09)
+- Os valores de **CRÉDITOS** com base nas CSTs (50, 53, 70, 73, 75 e 98)
+- E os **ESTORNOS DE CRÉDITOS** são lançados em **BAIXAS DE ESTOQUE** e/ou **DEVOLUÇÃO À FORNECEDORES**
 
 
 
