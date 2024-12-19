@@ -368,7 +368,7 @@ A conferência pode ser realizada de duas formas para identificar se o CST esta 
 ----------------------------------------------------------------------------
 
 
-#### 1.9 - 9° Conferências Apuração ICMS 
+#### 1.9 - 9° Conferências Apuração ICMS (Sistema ETCCOM)
 
 Para essa etapa são calculados os valores de débito e crédito de ICMS e efetuados os lançamentos para as seguintes operações:
 
@@ -590,7 +590,7 @@ Abaixo, CFOP para extrair relatório de análises:
   
 ----------------------------------------------------------------------------
 
-#### 1.12 - 12° Conferências Aproveitamento de Crédito (DIFAL - ATIVO IMOBILIZADO / DESPESAS) 
+#### 1.12 - 12° Conferências Aproveitamento de Crédito (DIFAL - ATIVO IMOBILIZADO / DESPESAS) (Sistema ETCCOM)
 
 Os valores somados de cada nota fiscal deve-se lançar como crédito e débito para equalizar os valores corretos do crédito de apropriação:
 
@@ -624,7 +624,7 @@ Os valores somados de cada nota fiscal deve-se lançar como crédito e débito p
 
 ----------------------------------------------------------------------------
 
-#### 1.13 - 13° Conferências Aproveitamento de Crédito (DARE) 
+#### 1.13 - 13° Conferências Aproveitamento de Crédito (DARE) (Sistema ETCCOM)
 
 Os valores a serem lançados na apuração de ICMS será consideração do relatório de MOVIMENTO DE TÍTULOS DE OBRIGAÇÕES deve-SE lançar como crédito e débito para equalizar os valores:
 
@@ -659,7 +659,7 @@ Os valores a serem lançados na apuração de ICMS será consideração do relat
 
 
 
-#### 1.14 - 14° Conferência PIS/COFINS
+#### 1.14 - 14° Conferência PIS/COFINS (Sistema ETCCOM)
 
 Para essa etapa são analisados os relatórios dos lançamentos para as seguintes operações:
 
@@ -725,7 +725,7 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 
 
-### 1.7 - 8° Apuração de ICMS:
+### 1.7 - 8° Apuração de ICMS (Sistema TOTVS):
 
 > [!NOTE]
 > **Para apuração**
