@@ -790,28 +790,35 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 > ![image](https://github.com/user-attachments/assets/58c197f5-5397-4602-b219-50f4fb53d296) ![image](https://github.com/user-attachments/assets/c30b9cb6-ba9a-4d9c-a5ee-7f0e477226ac)
 
 
-☑️**REGISTRO APURAÇÃO - SISTEMA ETCCOM (PRODUTOR RURAL)** 
-
+☑️**REGISTRO APURAÇÃO (Sistema TOTVS)** 
 
 - 📂Imagem da Apuração:
 
 > ![image](https://github.com/user-attachments/assets/f1f5a01b-2a05-4dd5-8b98-4c6b18d7965a)
-
 
 - 📂Imagem do PDF Apuração:
 
 > ![image](https://github.com/user-attachments/assets/c650dc2c-a161-4cb9-a4df-2f2c8d07d7f5)
 
 
-☑️**Outros Documentos e Operações Geradoras de Crédito/Débito - Registro F100**
+☑️**LANÇAMENTOS - Registro F100**
 
-- 📂Lançamentos dos valores de CST:
+```- PROCESSOS - APURAÇÃO PIS/COFINS - Outros Documentos e Operações Geradoras de Crédito/Débito - Registro F100```
+
+- 📂Lançamentos das receitas e despesas:
 
 > ![image](https://github.com/user-attachments/assets/dc9928ab-8f9c-499c-aa70-17450bfb5adc)
 
-- 📂Lançamentos dos valores de CST (Aluguel):
+- 📂Lançamentos das receitas e despesas (Aluguel):
 
 > ![image](https://github.com/user-attachments/assets/e7c07214-4019-4557-9dab-735b87c4653e)
+
+
+☑️**LANÇAMENTOS - Registro F120 e F130**
+
+```- PROCESSOS - APURAÇÃO PIS/COFINS - Bebs Incorporados ao Ativo Imobilizado - Registros F120 e F130```
+
+
 
 - 📂Planilha de Conferência de PIS/COFINS Contábil:
 
