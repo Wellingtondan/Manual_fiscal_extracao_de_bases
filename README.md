@@ -813,4 +813,19 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 > ![image](https://github.com/user-attachments/assets/e7c07214-4019-4557-9dab-735b87c4653e)
 
+- 📂Planilha de Conferência de PIS/COFINS Contábil:
+
+- [Planilha Contábil PIS/COFINS](https://github.com/Wellingtondan/Manual_fiscal_extracao_de_bases/blob/main/CONFERENCIA%20DE%20PIS%20E%20COFINS.xlsm)
+
+- 📂Planilha Demais Receitas e Despesas para PIS/COFINS - RETA + HORT
+
+- [Planilha de Receitas e Despesas para PIS/COFINS](https://github.com/Wellingtondan/Manual_fiscal_extracao_de_bases/blob/main/Demais%20receitas%20e%20despesas%20para%20PIS%20COFINS%20-%20Reta%20e%20Hort%2011.2024_ok.xls)
+
+
+
+
+
+
+
+
 
