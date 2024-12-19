@@ -766,7 +766,6 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 >   -       6.Apuração PIS COFINS > seleciona mês > pesquisa F8 >
 >   -       7.Recompor apuração > F4 atualizar > impressora > salvar em pdf apuração.
 
-
 > ![image](https://github.com/user-attachments/assets/f30ba80c-a419-41cb-8bb7-cb270105e4cd) ![image](https://github.com/user-attachments/assets/402cd72b-16eb-437e-8cc0-a7e5fa85ae79)
 
 ☑️**Para relatório auxiliar para conferência** 
@@ -792,4 +791,26 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 
 ☑️**REGISTRO APURAÇÃO - SISTEMA ETCCOM (PRODUTOR RURAL)** 
+
+
+- 📂Imagem da Apuração:
+
+> ![image](https://github.com/user-attachments/assets/f1f5a01b-2a05-4dd5-8b98-4c6b18d7965a)
+
+
+- 📂Imagem do PDF Apuração:
+
+> ![image](https://github.com/user-attachments/assets/c650dc2c-a161-4cb9-a4df-2f2c8d07d7f5)
+
+
+☑️**Outros Documentos e Operações Geradoras de Crédito/Débito - Registro F100**
+
+- 📂Lançamentos dos valores de CST:
+
+> ![image](https://github.com/user-attachments/assets/dc9928ab-8f9c-499c-aa70-17450bfb5adc)
+
+- 📂Lançamentos dos valores de CST (Aluguel):
+
+> ![image](https://github.com/user-attachments/assets/e7c07214-4019-4557-9dab-735b87c4653e)
+
 
