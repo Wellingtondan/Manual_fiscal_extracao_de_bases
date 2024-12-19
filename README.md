@@ -818,7 +818,12 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 ```- PROCESSOS - APURAÇÃO PIS/COFINS - Bebs Incorporados ao Ativo Imobilizado - Registros F120 e F130```
 
+- 📂Lançamentos das receitas e despesas (Amortização / Depreciação):
 
+> ![image](https://github.com/user-attachments/assets/945a9a0d-6bd7-435e-99b0-c128f20b7822)
+
+
+☑️**Planilhas de preenchimento de valores do PIS/COFINS**
 
 - 📂Planilha de Conferência de PIS/COFINS Contábil:
 
