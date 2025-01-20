@@ -857,6 +857,10 @@ Por essa planilha são realizados os lançamentos das receitas e despesas na C5 
 - E os **ESTORNOS DE CRÉDITOS** são lançados em **BAIXAS DE ESTOQUE** e/ou **DEVOLUÇÃO À FORNECEDORES**
 > ![image](https://github.com/user-attachments/assets/34afecff-f5d2-49ef-afbc-bde1bbf6448f)
 
+Os valores preenchidos na planilha de conferência são extraídos do PDF de Apuração PIS/COFINS.
+
+E preenche-se também com os valores da "Planilha Contábil" de despesa e receita.
+
 
 ☑️**OBSERVAÇÕES**
 
