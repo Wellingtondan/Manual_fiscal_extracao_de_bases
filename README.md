@@ -834,6 +834,10 @@ Na conferência da Apuração são somados os valores de COMPRAS - Total Contáb
 
 > ![image](https://github.com/user-attachments/assets/2cdcb3af-77fc-4df8-8084-f2c6d52d1369)
 
+Por essa planilha são realizados os lançamentos das receitas e despesas na C5 para o `Registro F100` e `Registro F120 e F130`, em APURAÇÃO PIS/COFINS consolide todas as lojas clicando em **Demonstrar/Imprimir dados Consolidados**, **RECOMPOR APURAÇÃO** e **FINALIZAR APURAÇÃO**, gere o PDF para conferência e salve na pasta EFD CONTRIBUIÇÕES.
+
+> ![image](https://github.com/user-attachments/assets/d1981e7b-770f-4617-8620-c0d9696e60c4)
+
 
 ☑️**Planilha de preenchimento de valores do PIS/COFINS**
 
