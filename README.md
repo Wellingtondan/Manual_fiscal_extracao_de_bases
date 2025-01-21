@@ -868,4 +868,16 @@ E preenche-se também com os valores da "Planilha Contábil" de despesa e receit
 - As alíquotas de lançamentos para a CST 02 são: (PIS) 0,65% e (COFINS) 4,00%
 - As alíquotas de lançamentos para a CST 50 são: (PIS) 1,65% e (COFINS) 7,60% para operações de aluguéis, locações, depreciações e/ou amortizações.
 
+#### 1.17 - 17° LANÇAMENTO JUROS SOBRE CAPITAl PRÓPIRO (JCP) - SISTEMA DOMINIO EMPRESAS MENORES
+
+Imagem ilustrativa das parametrizações necessárias para o lançamento:
+
+> ![image](https://github.com/user-attachments/assets/84506673-fb96-4484-b182-2135d329c548)
+
+
+Valores compartilhados pela contabilidade de cada empresa para lançamento em SERVIÇOS e valores compensados para PIS/COFINS e CSLL:
+
+> ![image](https://github.com/user-attachments/assets/886b82c5-3acf-4a30-b69e-3ba4862120d4)
+
+
 
