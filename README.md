@@ -885,6 +885,11 @@ https://sicalc.receita.economia.gov.br/sicalc/rapido/calculo
 - GUIA gerada com as informações corretas para pagamento:
 > ![image](https://github.com/user-attachments/assets/70b08ae9-f2fd-4524-8b39-64a56a9ed191)
 
+☑️**EFD - CONTRIBUIÇÕES **
+
+![image](https://github.com/user-attachments/assets/54071a83-5737-4d2b-b418-4de01c86bf94)
+
+----------------------------------------------------------------------------
 
 
 #### 1.17 - 17° LANÇAMENTO JUROS SOBRE CAPITAl PRÓPIRO (JCP) - SISTEMA DOMINIO EMPRESAS MENORES
