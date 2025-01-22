@@ -873,7 +873,7 @@ E preenche-se também com os valores da "Planilha Contábil" de despesa e receit
 
 Para gerar a GUIA referente ao mês subsequente a entrega do EFD CONTRIBUIÇÕES, verifique a GUIA anterior para consultar o código da receita correto.
 
-Abaixo o link do site para gerar boleto da GUIA:
+- Abaixo o link do site para gerar boleto da GUIA:
 
 https://sicalc.receita.economia.gov.br/sicalc/rapido/calculo
 
@@ -882,6 +882,8 @@ https://sicalc.receita.economia.gov.br/sicalc/rapido/calculo
 > ![image](https://github.com/user-attachments/assets/93b63271-59c6-4ae7-b5c7-ef1b79eb8a0b)
 > ![image](https://github.com/user-attachments/assets/5edb322e-777a-491e-b8ab-431a85553d12)
 
+- GUIA gerada com as informações corretas para pagamento:
+> ![image](https://github.com/user-attachments/assets/70b08ae9-f2fd-4524-8b39-64a56a9ed191)
 
 
 
